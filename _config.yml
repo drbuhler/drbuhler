@@ -1,12 +1,9 @@
 name: Dr Buhler.com 
-description: >
-    Draft
-about: >
-    A new one page directory 
+description: A new draft site for Dr Buhler
+about: A new one page directory 
 
-owner: ""
 master_repo: false
-url: "https://drbuhler.com"
+url: "https://www.drbuhler.com"
 baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
@@ -44,15 +41,13 @@ social:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-71712734-1
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+google_analytics: UA-71712734-1
+google_verify:  
 bing_verify:         
 
 analytics:
   provider: "google-universal"
-    tracking_id: "UA-71712734-1"
-
+  tracking_id: "UA-71712734-1"
 
 timezone:    America/New_York
 future:      true
@@ -130,8 +125,8 @@ defaults:
   - scope:
       path: "posts"
       type: ""
-      layout: "post" # overrides previous default layout
       values:
+        layout: "post" # overrides previous default layout
         read_time: false
         comments: true
         share: false
