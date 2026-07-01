@@ -1,9 +1,10 @@
-name: Dr Buhler .com 
+name: Dr Buhler.com 
 description: >
     Draft
 about: >
     A new one page directory 
 
+owner: ""
 master_repo: false
 url: "https://drbuhler.com"
 baseurl: "" # Keep this empty if it's the main site root
