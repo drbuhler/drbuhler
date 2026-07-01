@@ -21,7 +21,7 @@ disqus_shortname:
 rtl: false
 
 # author info
-author:
+owner:
   name      : "Dionysius (Keith) Buhler"
   avatar    : "avatar.png"
   bio       : "Entrepreneur and philosopher"  
