@@ -6,10 +6,11 @@ title: About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-White Paper is a very clean theme and used by users around the globe.
-It aims to be clean and really fast. Jekyll is a pretty neat platform for generating websites and applications. The effort required to setup this blog is minimal but the effect is visible from the day one.
+I am an entrepreneur, educator, and philosopher based in Riverside, CA. 
 
-If you are visiting this page, it means you have configured it right and all you need to do now is to start blogging.
+My work spans classical education, restoring homes, and advisory services for Orthodox schools seeking to launch or be renewed. This page serves as a directory to my current projects and writing. (A complete record of academic publications, speaking engagements, and professional history at my CV)
+
+After five years service as founding headmaster of St Andrew Academy, I now offer limited number of advisory services each year. I work primarily with educational boards on strategy, fundraising, and governance. I also encourage headmasters in creating positive teacher culture.  Inquire below.
 
 <div class="pagination">
   {% if site.owner.linkedin %}
