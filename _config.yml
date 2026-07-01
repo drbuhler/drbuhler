@@ -5,7 +5,8 @@ about: >
     A new one page directory 
 
 master_repo: false
-url: "http://drbuhler.com"
+url: "https://drbuhler.com"
+baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
 
@@ -17,19 +18,135 @@ logo:             logo.png
 disqus_shortname:
 
 rtl: false
-owner:
-  name:           Dr Buhler 
-  avatar:         "db_fj_graduation.jpg"
-  email:          "dionysiusbuhler@gmail.com"
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: dionysiusbuhler
-  github: https://github.com/drbuhler
-  linkedin: https://www.linkedin.com/in/dionysiusbuhler
+
+# author info
+author:
+  name      : "Dionysius (Keith) Buhler"
+  avatar    : "avatar.png"
+  bio       : "Entrepreneur and philosopher"  
+  email     : "keithedbuhler@gmail.com"
+  url       : "https://www.keithbuhler.com"
+  facebook  : "keithedbuhler" 
+  twitter   : "dionysiusbuhler"
+  youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+
+social: 
+  type: 
+  name: 
+  links:
+    - "https://twitter.com/dionysiusbuhler"
+    - "https://facebook.com/drbuhler"
+    - "https://www.linkedin.com/in/dionysiusbuhler/"
+
+
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
+google_analytics:   UA-71712734-1
+google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify:         
+
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-71712734-1"
+
+
+timezone:    America/New_York
+future:      true
+highlighter: rouge
+
+# Gems
+
+gems: 
+  - [jekyll-paginate]
+  - [jekyll-sitemap]
+  - [jekyll-feed]
+  - [jekyll-gist]
+  - [jekyll-archives]
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# For categories and tags
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Links to include in footer navigation
+
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-book"></i> Documentation
+    url: /documentation
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
+
+teaser:   "400x400.gif"
+og_image: "db-bw-small.png"
+
+# Outputting
+
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+collections:
+  papers:
+    output: true
+  teaching:
+    output: true
+  presentations:
+    output: true
+
+defaults:
+  - scope:
+      path: "" # empty string for all files
+      type: 
+    values: 
+      layout: "page"
+  - scope:
+      path: "posts"
+      type: ""
+      layout: "post" # overrides previous default layout
+      values:
+        read_time: false
+        comments: true
+        share: false
+        related: false  
+        author_profile: true
+        words_per_minute: 200
+  - scope:
+      path: "slideshows"
+      type: "slideshows"
+    values:
+      layout: "slide"
+
+# defaults:
+  # _pages
+ # - scope:
+ #     path: ""
+ #     type: pages
+ #   values:
+ #     layout: single 
