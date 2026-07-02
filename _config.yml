@@ -23,16 +23,10 @@ owner:
   email     : "dionysiusbuhler@gmail.com"
   url       : "https://www.drbuhler.com"
   facebook  : "drbuhler" 
+  github    : "drbuhler"
   twitter   : "dionysiusbuhler"
   youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
-
-social: 
-  type: 
-  name: 
-  links:
-    - "https://twitter.com/dionysiusbuhler"
-    - "https://facebook.com/drbuhler"
-    - "https://www.linkedin.com/in/dionysiusbuhler/"
+  linkedin  : "https://www.linkedin.com/in/dionysiusbuhler/"
 
 
   # For Google Authorship https://plus.google.com/authorship
