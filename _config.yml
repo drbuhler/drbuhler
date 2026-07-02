@@ -1,36 +1,30 @@
-# Site settings
- url      : "https://www.keithbuhler.com"
- baseurl  : ""
- locale:         "en"
- title:          "keithbuhler.com"
- description:    "Thoughts and projects of Dr. Dionysius (Keith) Buhler, entrepreneur and philosopher."
- comments: 
-  provider:       "facebook"
-  facebook: 
-    appid:    #optional
-    num_posts: 5
-    colorscheme : #"light" (default", "dark")
-reading_time    :     true
-words_per_minute: 200
+name: Dr Buhler.com 
+description: A new draft site for Dr Buhler
+about: A new one page directory 
 
-# Social
+master_repo: false
+url: "http://drbuhler.com"
+baseurl: "" # Keep this empty if it's the main site root
+markdown: kramdown
+highlighter: rouge
 
-facebook:
-  username  : "dionysiusbuhler" 
-github      : 
-  username  : "dionysiusbuhler"
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
+paginate: 4
+
+logo:             logo.png
+disqus_shortname:
+
+rtl: false
 
 # author info
 owner:
   name      : "Dionysius (Keith) Buhler"
   avatar    : "avatar.png"
   bio       : "Entrepreneur and philosopher"  
-  email     : "keithedbuhler@gmail.com"
-  url       : "https://www.keithbuhler.com"
-  facebook  : "keithedbuhler" 
+  email     : "dionysiusbuhler@gmail.com"
+  url       : "https://www.drbuhler.com"
+  facebook  : "drbuhler" 
   twitter   : "dionysiusbuhler"
   youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
 
@@ -42,16 +36,18 @@ social:
     - "https://facebook.com/drbuhler"
     - "https://www.linkedin.com/in/dionysiusbuhler/"
 
+
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-71712734-1
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+google_analytics: UA-71712734-1
+google_verify:  
 bing_verify:         
 
 analytics:
   provider: "google-universal"
-    tracking_id: "UA-71712734-1"
-
+  tracking_id: "UA-71712734-1"
 
 timezone:    America/New_York
 future:      true
@@ -129,8 +125,8 @@ defaults:
   - scope:
       path: "posts"
       type: ""
-      layout: "post" # overrides previous default layout
       values:
+        layout: "post" # overrides previous default layout
         read_time: false
         comments: true
         share: false
