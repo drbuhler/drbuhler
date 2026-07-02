@@ -10,7 +10,7 @@ permalink:
 NOUS is an open-source directory and library of resources for homeschoolers, co-ops, church schools, and private Orthodox schools. We offer conferences, resources, and select consulting services. 
 
 - [“Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.]()
-- School in a box (open source resources)
+- [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resources)
 
 ## Capital placement
 
@@ -19,7 +19,7 @@ NOUS is an open-source directory and library of resources for homeschoolers, co-
 - [498orca.com](https://www.498orca.com/)
 - Numinorhomes.com (coming soon)
 
-## Latest Posts
+---
 
 {% for post in site.posts limit:2 %}
   <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
@@ -28,11 +28,3 @@ NOUS is an open-source directory and library of resources for homeschoolers, co-
     {{ post.excerpt }}
   </div>
 {% endfor %}
-
-## Ways to connect
-
-* [Facebook](https://www.facebook.com/keithedbuhler)
-* [Instagram](https://www.instagram.com/dionysiusbuhler/)
-* [YouTube](https://www.youtube.com/c/KeithBuhler)
-* [Blog](https://buhler.notion.site/Buhler-Report-Blog-Current-9d90055115754d97b5c7f15d09005eae)
-* [Questions for Reflection](http://keithbuhler.com/pensees)

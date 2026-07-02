@@ -8,13 +8,13 @@ title: About
 
 Hello! I am an entrepreneur, educator, and philosopher based in Riverside, CA.
 
-My primary academic work is in classical education and philosophy. 
+My work spans classical education, restoring homes, and advisory services for Orthodox schools seeking to launch or be renewed. This page serves as a directory to my current projects and writing. (A complete record of academic publications, speaking engagements, and professional history is at my [CV](https://www.keithbuhler.com/cv/).)
 
 ## Classical Ed
 
-* I was founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/) from 2020-2025 and now mentor Orthodox schools seeking to launch or be renewed.  
-* Consulting: I help educational boards on strategy, fundraising, and governance. I also encourage headmasters in creating positive teacher culture. [Testimonials](link here)
-* West coast [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring.  
+After five years of service as founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/), I now offer a limited number of advisory engagements each year. I work primarily with educational boards on strategy, fundraising, and governance. I also encourage headmasters in creating positive teacher culture ([testimonials](/testimonials)). Inquire below.
+
+I am also a west coast [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring.
 
 
 

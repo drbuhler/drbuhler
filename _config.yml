@@ -1,5 +1,5 @@
-name: Dr Buhler.com 
-description: A new draft site for Dr Buhler
+name: Dionysius Buhler 
+description: Seeking wisdom with Dr Buhler 
 about: A new one page directory 
 
 master_repo: false
@@ -7,6 +7,15 @@ url: "http://drbuhler.com"
 baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
+
+# author / social info (used by footer icons, about page, copyright)
+owner:
+  name: "Dionysius (Keith) Buhler"
+  avatar: "/images/avatar.png"
+  email: "keithedbuhler@gmail.com"
+  facebook: "keithedbuhler"
+  instagram: "dionysiusbuhler"
+  youtube: "https://www.youtube.com/c/KeithBuhler"
 
 plugins: ['jekyll-gist', 'jekyll-feed']
 
