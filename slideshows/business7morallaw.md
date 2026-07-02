@@ -2,10 +2,11 @@
 title: Moral Law
 layout: slide
 theme: night
+permalink: /slideshows/business7morallaw/
 ---
 
 <section> <!--begin day 1-->
-<section data-background="http://www.keithbuhler.com/images/diversity.jpg" data-markdown>
+<section data-background="/images/diversity.jpg" data-markdown>
 
 # Universal Norms
 

@@ -1,6 +1,7 @@
 ---
 title:      Aristotle
 layout: slide
+permalink: /slideshows/single-aristotle-dan/
 ---
 
 

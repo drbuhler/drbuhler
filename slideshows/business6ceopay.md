@@ -2,6 +2,7 @@
 title: Capitalism
 layout: slide
 theme: sky
+permalink: /slideshows/business6ceopay/
 ---
 
 

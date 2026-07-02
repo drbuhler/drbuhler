@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-permalink: /business1syllabus/
+permalink: /slideshows/business1syllabus/
 ---
 <section><!--Syllabus begin-->
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
@@ -51,7 +51,7 @@ permalink: /business1syllabus/
 * Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. 
 * This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
 
-Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus334)
+Open your syllabus or follow [online.](/syllabus334)
 
 </section><section data-markdown>
 
@@ -168,7 +168,7 @@ How to read it
 * You will get faster, but start slow and careful. 
 * Try to read *and understand* the book. What is the main thesis? Is it true?  
 * Take notes. Talk with each other before class. 
-* More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
+* More are tips [available online.](/philosophy-class)
 
 
 
@@ -223,7 +223,7 @@ We do dialogue for five main reasons:
 
 </section><section data-markdown>
 ### Participation
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other [discussion ground rules are posted online.](/discussion101)
 
 </section><section data-markdown>
 ### Participation
@@ -276,7 +276,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * No reading due -- but review syllabus and Monday's assignments
-* You can review these slideshows! -- www.keithbuhler.com/slideshows
+* You can review these slideshows! -- drbuhler.com/slideshows
 * Friday: discuss business ethics in a bit more detail
 
 </section>

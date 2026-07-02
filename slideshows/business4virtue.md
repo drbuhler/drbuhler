@@ -2,6 +2,7 @@
 title: Virtue
 layout: slide
 theme: night
+permalink: /slideshows/business4virtue/
 ---
 
 <section><!--begin-->

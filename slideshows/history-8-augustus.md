@@ -2,13 +2,14 @@
 layout: slide
 theme: black
 title: August Caesar
+permalink: /slideshows/history-8-augustus/
 --- 
 
 
 
 
 
-<section data-background="http://www.keithbuhler.com/images/background-history.png"> <!--Intro slide begin-->
+<section data-background="/images/background-history.png"> <!--Intro slide begin-->
 <section data-background="http://cdn.history.com/sites/2/2013/11/julius-caesar.jpg"  data-markdown><!--Intro slide begin-->
 
 

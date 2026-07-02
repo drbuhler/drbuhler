@@ -2,6 +2,7 @@
 title: 
 layout: slide
 theme: league
+permalink: /slideshows/ethics11sexuality/
 ---
 
 <section><!--Intro slide begin-->

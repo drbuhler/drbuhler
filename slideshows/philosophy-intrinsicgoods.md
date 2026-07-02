@@ -2,6 +2,7 @@
 title: Intrinsic Goods
 layout: slide
 theme: league
+permalink: /slideshows/philosophy-intrinsicgoods/
 ---
 
 <section><!--Syllabus begin-->

@@ -2,6 +2,7 @@
 title: Nature of Morality
 layout: slide
 theme: blood
+permalink: /slideshows/ethics2morality/
 ---
 
 <section><!--Friday begin-->

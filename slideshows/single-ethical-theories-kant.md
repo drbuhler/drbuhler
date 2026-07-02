@@ -2,6 +2,7 @@
 layout: slide
 title: business 4 deontology
 theme: serif
+permalink: /slideshows/single-ethical-theories-kant/
 ---
 
 <section><!--begin-->

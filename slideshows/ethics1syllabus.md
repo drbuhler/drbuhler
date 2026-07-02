@@ -2,6 +2,7 @@
 title: Morality and Society Introduction and Syllabus
 layout: slide
 theme: league
+permalink: /slideshows/ethics1syllabus/
 ---
 
 <section><!--Syllabus begin-->
@@ -79,14 +80,14 @@ Is St. Katherine being beheaded because she won a debate with 50 philosophers as
 
 ## What is this class about?
 
-Open your syllabus [or follow online.](http://www.keithbuhler.com/introduction)
+Open your syllabus [or follow online.](/introduction)
 
 </section><section data-markdown>
 
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * Next class: Moreland on Loving God with your Mind
-* You can review these slideshows! -- www.keithbuhler.com/slides
+* You can review these slideshows! -- drbuhler.com/slideshows
 
 
 </section>

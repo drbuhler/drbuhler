@@ -2,6 +2,7 @@
 layout: slide
 title: Religious Ethics
 theme: night
+permalink: /slideshows/business4religion-old/
 ---
 
 

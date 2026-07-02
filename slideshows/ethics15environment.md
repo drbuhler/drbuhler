@@ -2,9 +2,10 @@
 title: Duties to the Environment
 layout: slide
 theme: blood
+permalink: /slideshows/ethics15environment/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
+<section data-background="/images/background-morality.svg"> <!--Intro slide begin-->
 <section data-background="http://p8.storage.canalblog.com/86/95/1164341/90654171_o.jpg"  data-markdown><!--Intro slide begin-->
 
 

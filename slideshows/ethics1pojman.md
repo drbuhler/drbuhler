@@ -2,6 +2,7 @@
 title: Introduction
 layout: slide
 theme: serif
+permalink: /slideshows/ethics1pojman/
 ---
 
 <section><!--Friday begin-->
@@ -138,7 +139,7 @@ DON'T HAVE TO TURN THIS IN.
 
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meetings?"
 * Next class: Chapter 1, "Lord of the Flies", and "Nature and Purpose of Morality"
-* You can review or preview these slideshows! -- www.keithbuhler.com/slideshows
+* You can review or preview these slideshows! -- drbuhler.com/slideshows
 
 
 </section>

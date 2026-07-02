@@ -2,9 +2,10 @@
 title: 
 layout: slide
 theme: league
+permalink: /slideshows/ethics14animals/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg">
+<section data-background="/images/background-morality.svg">
 <section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
 
 # Animal Rights
@@ -146,7 +147,7 @@ theme: league
 
 
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg">
+<section data-background="/images/background-morality.svg">
 <section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
 
 # A Defense of Animal Rights

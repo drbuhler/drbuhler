@@ -2,6 +2,7 @@
 title: Ethical Theories
 layout: slide
 theme: night
+permalink: /slideshows/business3theories1/
 ---
 
 <section><!--Begin Day 1 Truth-->

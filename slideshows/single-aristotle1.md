@@ -2,7 +2,7 @@
 title: Aristotle on Happiness
 layout: slide
 theme: night
-permalink: 
+permalink: /slideshows/single-aristotle1/
 ---
 
 <section><!--Lecture begin-->

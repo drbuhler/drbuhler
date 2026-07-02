@@ -3,6 +3,7 @@ title: Orthodox Education
 layout: slide
 theme: black
 
+permalink: /slideshows/orthodoxeducation/
 ---
 
 

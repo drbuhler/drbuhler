@@ -2,6 +2,7 @@
 title: 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics10autonomy/
 ---
 
 <section><!--Intro slide begin-->

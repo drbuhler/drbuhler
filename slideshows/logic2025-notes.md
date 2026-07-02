@@ -2,12 +2,13 @@
 title: Introduction
 layout: slide
 theme: league
+permalink: /slideshows/logic2025-notes/
 ---
 
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Super intro Day 1 begin-->
+<section data-background="/images/tree-of-science.png"><!--Super intro Day 1 begin-->
 <section data-background="http://www.lse.ac.uk/philosophy/wp-content/uploads/2016/04/mobius-lr2-1.gif" data-markdown><!--Day 1-->
 
 # Intro to Logic
@@ -496,7 +497,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 3-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 3-->
 <section data-markdown>
 
 # Logical Fallacies
@@ -803,7 +804,7 @@ prosperous in this life.
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 3 Begin-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Day 3 Begin-->
 <section data-markdown>
 
 </section><section data-markdown>
@@ -820,7 +821,7 @@ prosperous in this life.
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 4 Begin-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Day 4 Begin-->
 <section data-markdown>
 
 </section><section data-markdown>
@@ -836,7 +837,7 @@ prosperous in this life.
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
 <section data-markdown>
 
 </section><section data-markdown>

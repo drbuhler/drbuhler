@@ -2,6 +2,7 @@
 title: Hegel
 layout: slide
 theme: league
+permalink: /slideshows/single-hegel/
 ---
 
 <section><!--Syllabus begin-->
@@ -69,7 +70,7 @@ Open your syllabus!
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * Next class: Read David Hume on Impressions and Ideas
-* You can review these slideshows! -- www.keithbuhler.com/slideshows
+* You can review these slideshows! -- drbuhler.com/slideshows
 
 
 </section>

@@ -3,6 +3,7 @@ title: Inside Job (Film)
 layout: slide
 theme: simple
 
+permalink: /slideshows/business8insidejob/
 ---
 
 <section>

@@ -2,6 +2,7 @@
 title: Introduction
 layout: slide
 theme: sky
+permalink: /slideshows/intro6walle/
 ---
 
 <section data-background=""><!--Day 1 begin-->

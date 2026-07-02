@@ -2,9 +2,10 @@
 title: Logic
 layout: slide
 theme: league
+permalink: /slideshows/logic2025/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Super intro Day 1 begin-->
+<section data-background="/images/tree-of-science.png"><!--Super intro Day 1 begin-->
 <section data-markdown><!--Day 1-->
 
 
@@ -519,7 +520,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/logic-aristotle.png" ><!--Begin day 2-->
+<section data-background="/images/logic-aristotle.png" ><!--Begin day 2-->
 <section data-markdown>
 
 
@@ -1240,7 +1241,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-<section data-background="http://www.keithbuhler.com/images/matrix.png"><!--Day 3 Begin-->
+<section data-background="/images/matrix.png"><!--Day 3 Begin-->
 <section data-markdown>
 
 
@@ -1695,7 +1696,7 @@ Exercises 205
 
 
 
-<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 4 Begin-->
+<section data-background="/images/black-fractal.png" ><!--Day 4 Begin-->
 <section data-markdown>
 
 
@@ -2255,7 +2256,7 @@ prosperous in this life.
 
 
 
-<section data-background="http://www.keithbuhler.com/images/logic-maximos.png" ><!--Day 5 Begin-->
+<section data-background="/images/logic-maximos.png" ><!--Day 5 Begin-->
 <section data-markdown>
 
 

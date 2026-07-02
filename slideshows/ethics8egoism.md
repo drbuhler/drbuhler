@@ -2,6 +2,7 @@
 title: 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics8egoism/
 ---
 
 <section><!--Intro slide begin-->

@@ -2,6 +2,7 @@
 title: Introduction
 layout: slide
 theme: blood
+permalink: /slideshows/intelligibility/
 ---
 
 <section data-background=""><!--Day 1 begin-->

@@ -2,6 +2,7 @@
 title: Truth
 layout: slide
 theme: night
+permalink: /slideshows/business1truth/
 ---
 
 <section><!--Begin Day 1 Truth-->

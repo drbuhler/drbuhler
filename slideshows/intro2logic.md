@@ -2,9 +2,10 @@
 title: Introduction
 layout: slide
 theme: league
+permalink: /slideshows/intro2logic/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Day 1 begin-->
+<section data-background="/images/tree-of-science.png"><!--Day 1 begin-->
 <section data-background="http://www.lse.ac.uk/philosophy/wp-content/uploads/2016/04/mobius-lr2-1.gif" data-markdown><!--Intro slide begin-->
 
 # Logic
@@ -229,7 +230,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section></section><!--Syllabus end-->
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Wed, Intro begin-->
 <section data-markdown>
 
 # Logical Fallacies

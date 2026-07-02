@@ -2,6 +2,7 @@
 title: Methods of Business Ethics
 layout: slide
 theme: blood
+permalink: /slideshows/business2methods3/
 ---
 
 <section><!--begin splash-->

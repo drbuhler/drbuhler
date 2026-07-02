@@ -14,11 +14,11 @@ sidebar:
 
 ## Business Ethics, UK (2017)
 
-* [Week 1 Syllabus](/slideshows/business1intro)
+* [Week 1 Syllabus](/slideshows/business1syllabus)
 * [Week 1 Truth](/slideshows/business1truth)
-* [Week 2 Methods](http://www.keithbuhler.com/slideshows/business2methods)
+* [Week 2 Methods](/slideshows/business2methods)
 * [Week 3 Ethical Theories 1 -- Deontology, Utilitarianism](/slideshows/business3theories1)
-* [Week 4 Ethical Theories 2 -- Virtue, Religious Ethics](http://www.keithbuhler.com/slideshows/business4virtue)
+* [Week 4 Ethical Theories 2 -- Virtue, Religious Ethics](/slideshows/business4virtue)
 * [Week 5 Capitalism](/slideshows/business5capitalism)
 * [Week 6 CEO Pay](/slideshows/business6ceopay)
 * [Week 7 Moral Law](/slideshows/business7morallaw)
@@ -33,17 +33,17 @@ sidebar:
 
 
 * [Utilitarianism](/slideshows/business3util)
-* [Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
+* [Kantian Deontology](/slideshows/business4kant)
 
 
 ## Morality & Society, UK (2017)
 
 * [Week 1 Syllabus](/slideshows/ethics1syllabus)
 * [Week 1 Pojman, Introduction](/slideshows/ethics1pojman)
-* [Week 2 Nature and Purpose of Morality](http://www.keithbuhler.com/slideshows/ethics2morality)
-* [Week 3 Good and Evil, Relativism](http://www.keithbuhler.com/slideshows/ethics3goodandevil)
-* [Week 4 Utilitarianism](http://www.keithbuhler.com/slideshows/ethics4utilitarianism)
-* [Week 5 Deontological Ethics](http://www.keithbuhler.com/slideshows/ethics5deontology)
+* [Week 2 Nature and Purpose of Morality](/slideshows/ethics2morality)
+* [Week 3 Good and Evil, Relativism](/slideshows/ethics3goodandevil)
+* [Week 4 Utilitarianism](/slideshows/ethics4utilitarianism)
+* [Week 5 Deontological Ethics](/slideshows/ethics5deontology)
 * [Week 6 Virtue ethics](/slideshows/ethics6virtue)
 * [Week 7 Feminist ethics](/slideshows/ethics7feminism)
 * [Week 8 Egoism](/slideshows/ethics8egoism)
@@ -68,7 +68,7 @@ sidebar:
 * [Week 11 Augustine](/slideshows/intro11augustine)
 * [Week 12 God and Evil](https://docs.google.com/presentation/d/1cbiG6MP_EJ-PXjxQlALRsfHAZYWX6zvUOR-s06UwWDk/edit)
 * [Week 13 Atheism](/slideshows/intro13atheism)
-* [Week 14 Wall-E and 2001: A Space Odyssey](http://www.keithbuhler.com/slideshows/intro15walle)
+* [Week 14 Wall-E and 2001: A Space Odyssey](/slideshows/intro15walle)
 * [Week 16 Tree of Life]
 
 

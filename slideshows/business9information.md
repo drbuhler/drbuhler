@@ -2,9 +2,10 @@
 title: 
 layout: slide
 theme: league
+permalink: /slideshows/business9information/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-lexington.svg" ><!--Intro slide begin-->
+<section data-background="/images/background-lexington.svg" ><!--Intro slide begin-->
 <section data-background="https://i.ytimg.com/vi/CLn4RCV44qA/maxresdefault.jpg" data-markdown><!--Intro slide begin-->
 
 
@@ -94,7 +95,7 @@ theme: league
 </section><!--day 1 end--> 
 
 
-<section data-background="http://www.keithbuhler.com/images/background-lexington.svg" ><!--day 2 begin-->
+<section data-background="/images/background-lexington.svg" ><!--day 2 begin-->
 <section data-background="https://i.ytimg.com/vi/CLn4RCV44qA/maxresdefault.jpg" data-markdown><!--Intro slide begin-->
 
 

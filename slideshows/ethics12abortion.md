@@ -2,9 +2,10 @@
 title: 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics12abortion/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
+<section data-background="/images/background-morality.svg"> <!--Intro slide begin-->
 <section data-background="http://bloximages.newyork1.vip.townnews.com/alestlelive.com/content/tncms/assets/v3/editorial/7/b4/7b424724-2eab-11e2-82e1-0019bb30f31a/50a41d69917a2.image.jpg"  data-markdown><!--Intro slide begin-->
 
 
@@ -108,7 +109,7 @@ Okada et al., A role for the elongator complex in zygotic paternal genome demeth
 </section>
 </section>
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
+<section data-background="/images/background-morality.svg"> <!--Intro slide begin-->
 <section data-background="http://www.newn.cam.ac.uk/wp-content/uploads/2016/05/JudithWEB.jpg"  data-markdown><!--Intro slide begin-->
 
 

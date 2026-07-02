@@ -2,9 +2,10 @@
 title: Logic
 layout: slide
 theme: league
+permalink: /slideshows/intro3reasoning/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Day 1 begin-->
+<section data-background="/images/tree-of-science.png"><!--Day 1 begin-->
 <section data-background="http://www.lse.ac.uk/philosophy/wp-content/uploads/2016/04/mobius-lr2-1.gif" data-markdown><!--Intro slide begin-->
 
 # Logic
@@ -171,7 +172,7 @@ N ***E*** G ***O*** -- I NEGATE
 </section><!--Syllabus end-->
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin-->
+<section data-background="/images/tree-of-science-red.svg" ><!--Wed, Intro begin-->
 <section data-markdown>
 
 # Jesus and Logic

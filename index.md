@@ -5,11 +5,11 @@ permalink:
 ---
 
 
-## [National Orthodox United Schools (NOUS)]()
+## [National Orthodox United Schools (NOUS)](https://drbuhler.github.io/schools/)
 
 NOUS is an open-source directory and library of resources for homeschoolers, co-ops, church schools, and private Orthodox schools. We offer conferences, resources, and select consulting services. 
 
-- [“Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.]()
+- [“Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
 - [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resources)
 
 ## Capital placement

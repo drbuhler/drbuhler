@@ -2,6 +2,7 @@
 title: Good and Evil 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics3goodandevil/
 ---
 
 <section><!--Intro slide begin-->

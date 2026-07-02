@@ -2,10 +2,11 @@
 title: The Hellenistic Kingdoms
 layout: slide
 theme: black
+permalink: /slideshows/history-1-hellenism/
 ---
 
 
-<section data-background="http://www.keithbuhler.com/images/background-history.svg"> <!--Intro slide begin-->
+<section data-background="/images/background-history.svg"> <!--Intro slide begin-->
 <section data-background="http://cdn.history.com/sites/2/2013/11/julius-caesar.jpg"  data-markdown><!--Intro slide begin-->
 
 

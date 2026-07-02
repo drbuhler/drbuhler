@@ -2,6 +2,7 @@
 title: Philosophy of CS Lewis Week 1
 layout: slide
 theme: league
+permalink: /slideshows/single-cslewis/
 ---
 
 <section><!--Syllabus begin-->
@@ -55,7 +56,7 @@ theme: league
 
 ## What is this class about?
 
-Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
+Open your syllabus or follow [online.](/syllabus251)
 
 </section><section data-markdown>
 
@@ -158,7 +159,7 @@ Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * Next class: Lewis Bio 
 * Discuss: [Lewis, "Meditations on a Toolshed"](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg)
-* You can review these slideshows! -- www.keithbuhler.com/slides
+* You can review these slideshows! -- drbuhler.com/slideshows
 
 
 </section>

@@ -2,11 +2,11 @@
 title: Bios - A Life
 layout: slide
 theme: black
-permalink: 
+permalink: /slideshows/history-2-bios/
 ---
 
 
-<section data-background="http://www.keithbuhler.com/images/background-history.svg"> <!--Intro slide begin-->
+<section data-background="/images/background-history.svg"> <!--Intro slide begin-->
 <section data-background="http://cdn.history.com/sites/2/2013/11/julius-caesar.jpg"  data-markdown><!--Intro slide begin-->
 
 

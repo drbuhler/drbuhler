@@ -2,9 +2,10 @@
 title: The Ministry of Jesus Christ
 layout: slide
 theme: black
+permalink: /slideshows/history-3-jesus-life/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro begin-->
+<section data-background="/images/background-morality.svg"><!--Intro begin-->
 <section data-background="http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172" data-markdown><!--Intro Splash begin-->
 
 # The Life and Ministry of Jesus 
@@ -63,7 +64,7 @@ That's all we know from his early life.
 
 ### Where Jesus went
 
-![map](http://keithbuhler.com/images/matthew_jesus_in_galilee.jpg)
+![map](/images/matthew_jesus_in_galilee.jpg)
 
 </section><section data-markdown>
 

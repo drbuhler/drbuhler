@@ -2,9 +2,10 @@
 title: 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics13euthanasia/
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro slide begin-->
+<section data-background="/images/background-morality.svg"><!--Intro slide begin-->
 <section data-background="http://i0.wp.com/www.prolifemichiana.org/wp-content/uploads/2016/03/euthanasia.jpg?w=620" data-markdown><!--Intro slide begin-->
 
 ## Defense of Euthanasia 
@@ -204,7 +205,7 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 
 
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro slide begin-->
+<section data-background="/images/background-morality.svg"><!--Intro slide begin-->
 <section data-background="http://i0.wp.com/www.prolifemichiana.org/wp-content/uploads/2016/03/euthanasia.jpg?w=620" data-markdown><!--Intro slide begin-->
 
 ## Critique of Euthanasia 

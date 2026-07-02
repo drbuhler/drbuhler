@@ -2,6 +2,7 @@
 title: Utilitarianism 
 layout: slide
 theme: blood
+permalink: /slideshows/ethics4utilitarianism/
 ---
 
 <section><!--Intro slide begin-->

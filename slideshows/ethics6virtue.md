@@ -2,6 +2,7 @@
 title: Virtue Ethics Deck
 layout: slide
 theme: blood
+permalink: /slideshows/ethics6virtue/
 ---
 
 <section><!--begin-->

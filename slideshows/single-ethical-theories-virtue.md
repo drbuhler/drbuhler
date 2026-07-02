@@ -2,6 +2,7 @@
 layout: slide
 title: Business Ethics Week 05 -  Virtue Ethics
 theme: simple
+permalink: /slideshows/single-ethical-theories-virtue/
 ---
 
 <section><!--begin-->

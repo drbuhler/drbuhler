@@ -2,6 +2,7 @@
 title: Feminist Ethics Slideshow
 layout: slide
 theme: blood
+permalink: /slideshows/ethics7feminism/
 ---
 
 <section><!--Intro slide begin-->

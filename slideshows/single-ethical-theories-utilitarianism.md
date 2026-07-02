@@ -2,6 +2,7 @@
 layout: slide
 title: Utilitarianism
 theme: black
+permalink: /slideshows/single-ethical-theories-utilitarianism/
 ---
 
 <section><!--Begin Day 1 Truth-->

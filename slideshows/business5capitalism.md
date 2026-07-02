@@ -2,6 +2,7 @@
 title: Capitalism
 layout: slide
 theme: beige
+permalink: /slideshows/business5capitalism/
 ---
 
 <section>

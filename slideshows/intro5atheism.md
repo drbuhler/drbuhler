@@ -2,6 +2,7 @@
 title: Introduction
 layout: slide
 theme: league
+permalink: /slideshows/intro5atheism/
 ---
 
 <section data-background=""><!--Day 1 begin-->
@@ -34,10 +35,10 @@ theme: league
 
 </section><section data-markdown>
 
-![dawkins 1](http://keithbuhler.com/images/dawkins-best-seller0.png)
+![dawkins 1](/images/dawkins-best-seller0.png)
 
 </section><section data-markdown>
-![dawkins 2](http://keithbuhler.com/images/dawkins-best-seller1.png)
+![dawkins 2](/images/dawkins-best-seller1.png)
 
 
 
@@ -197,7 +198,7 @@ theme: league
 
 </section><section data-markdown>
 
-![dawkins 1](http://keithbuhler.com/images/dawkins-harris.png)
+![dawkins 1](/images/dawkins-harris.png)
 
 
 
