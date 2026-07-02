@@ -1,13 +1,10 @@
----
-layout: default
-title: Welcome
----
+more index thoughts.md
+
 
 # **National Orthodox United Schools (NOUS)**
 
 NOUS is open-source directory and library of resources for homeschoolers, co-ops, church schools, and private Orthodox schools. We offer conferences, resources, and select consulting services. 
-
-- “Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.
+- “Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.
 - School in a box (open source resources)
 
 ---
@@ -18,13 +15,3 @@ NOUS is open-source directory and library of resources for homeschoolers, co-ops
 
 - [498orca.com](498orca.com)
 - Numinorhomes.com (coming soon)
-
-<div class="listing">
-    {% for post in paginator.posts %}
-    <div class="post other link">
-      <h2></span> <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-      <p class="post-date">{{ post.date | date_to_string }}</p>
-      {{ post.excerpt }}
-    </div>
-    {% endfor %}
-</div>

@@ -8,9 +8,7 @@ baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
 
-plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
-
-paginate: 4
+plugins: ['jekyll-gist', 'jekyll-feed']
 
 logo:             logo.png
 disqus_shortname:
@@ -20,7 +18,7 @@ rtl: false
 # author info
 owner:
   name      : "Dionysius (Keith) Buhler"
-  avatar    : "avatar.png"
+  avatar    : "/images/avatar.png"
   bio       : "Entrepreneur and philosopher"  
   email     : "dionysiusbuhler@gmail.com"
   url       : "https://www.drbuhler.com"
