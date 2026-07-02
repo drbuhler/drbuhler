@@ -1,4 +1,4 @@
-# White Paper
+# Dr B
 
 **White Paper** is a theme for Jekyll. It is made keeping content in focus and is best for writers/developers who also like to share code with their essays.
 
