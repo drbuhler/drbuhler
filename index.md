@@ -2,25 +2,14 @@
 layout: page
 title: Welcome
 permalink: 
-header:
-      image: https://www.keithbuhler.com/images/kb-keith-at-trinity-speaking.jpg
 ---
 
-Welcome to the professional site of Dionysius Keith Buhler, PhD: my life mission is to seek wisdom and share it with others. 
 
-I am an entrepreneur, philosopher, and founder. 
-
-Currently, I'm a Great Books professor at the Honors College at Azusa Pacific University in CA. I'm a west coast [Alcuin fellow](https://alcuinfellowship.com/).  
-
-## Classical Education Consulting
-
-Dr. Buhler was the founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/). He leverages his experience to support [various classical schools](https://www.keithbuhler.com/schools) across the country. Get in touch if you need inspiration, resources, or renewed clarity.
-
-## National Orthodox United Schools (NOUS)
+## [National Orthodox United Schools (NOUS)]()
 
 NOUS is an open-source directory and library of resources for homeschoolers, co-ops, church schools, and private Orthodox schools. We offer conferences, resources, and select consulting services. 
 
-- “Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.
+- [“Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.]()
 - School in a box (open source resources)
 
 ## Capital placement
