@@ -3,7 +3,7 @@ description: A new draft site for Dr Buhler
 about: A new one page directory 
 
 master_repo: false
-url: "https://www.drbuhler.com"
+url: "https://drbuhler.com"
 baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
