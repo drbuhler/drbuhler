@@ -35,8 +35,3 @@ My 'tent-making' vocation is [restoring homes, managing capital, and solving com
 --- 
 
 Thank you for visiting. 
-
-<div class="pagination">
-  {% if site.owner.email %}
-    <a href="mailto:{{ site.owner.email }}" class="social-media-icons"><i class="fa fa-2x fa-envelope-square" aria-hidden="true"></i></a>
-  {% endif %}
