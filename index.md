@@ -11,16 +11,11 @@ NOUS is an organization dedicated to supporting Orthodox education worldwide. We
 
 - [Join the directory](emailto:dionysiusbuhler@gmail.com)
 - [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resource library)
-- (Consulting services)(/testimonials
+- [Consulting services](/testimonials) 
 
-## Numinor - Capital placement 
+## Numinor - [Capital placement services](/numinor)  
 
-*Numinor* is an investment firm focused on rehabilitating unique and beautiful properties across the U.S.
-
-[Numinor Homes](https://www.498orca.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. We take pride in restoring traditional spaces. 
-
-- A sample restoration project in Morro Bay: [498orca.com](https://www.498orca.com/)
-- [Numinorhomes.com](
+*Numinor* is an investment firm focused on rehabilitating unique and beautiful properties across the U.S. Numinor grows capital in high velocity restoration projects. We balance rapid gains with long-term tax advantaged positions. View a sample restoration project [in lovely Morro Bay, CA here.](https://www.498orca.com/) 
 
 ---
 
