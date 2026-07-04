@@ -1,7 +1,6 @@
 <br> 
 <br> 
 <br> 
-<br> 
 <!-- Social icons (always shown) + pagination links -->
 <div class="pagination">
   {% if site.owner.email %}
@@ -26,8 +25,6 @@
   {% if site.owner.github %}
   <a href="{{ site.owner.github }}" class="social-media-icons"><i class="fa-brands fa-2x fa-square-github"></i></a>
   {% endif %}
-
-  <br> 
 
   {% if paginator %}
   <!-- Pagination, pull to the right -->
@@ -56,7 +53,6 @@
 </div>
 
 <br>
-<br>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{site.google_analytics}}']);
@@ -69,7 +65,6 @@
 </script>
 <div class="footer-pagination">
 <p></p>
-  <br>
   <br>
   <span class="copyright" style="float: left; font-size: 16px; width: 100%; margin-top: 12px; margin-bottom: 12px;">&copy; {{ site.time |
     date: '%Y' }} {{ site.owner.name }}</span>
