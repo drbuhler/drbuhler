@@ -5,21 +5,26 @@ permalink:
 ---
 
 
-## [National Orthodox United Schools (NOUS)](https://drbuhler.github.io/schools/)
+## NOUS - [National Orthodox United Schools](https://drbuhler.github.io/schools/)
 
-NOUS is an open-source directory and library of resources for homeschoolers, co-ops, church schools, and private Orthodox schools. We offer conferences, resources, and select consulting services. 
+NOUS is an organization dedicated to supporting Orthodox education worldwide. We offer an open-source directory, a resource library, and select consulting services  for homeschoolers, co-ops, church schools, and private Orthodox schools. Consider attending our [2026 Educator's conference](https://www.stnektarioseducators.com/). 
 
-- [“Teacher as Mentor,” *Into the Light*, St. Vladimir’s Press, 2025.](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
-- [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resources)
+- [Join the directory](emailto:dionysiusbuhler@gmail.com)
+- [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resource library)
+- (Consulting services)(/testimonials
 
-## Capital placement
+## Numinor - Capital placement 
 
-*Numinor*, Tolkien’s name for the true west, is acquiring and rehabilitating unique and beautiful properties across the U.S. [Numinor Homes](https://www.498orca.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. We take pride in restoring traditional spaces and providing homes for first time buyers. 
+*Numinor* is an investment firm focused on rehabilitating unique and beautiful properties across the U.S.
 
-- [498orca.com](https://www.498orca.com/)
-- Numinorhomes.com (coming soon)
+[Numinor Homes](https://www.498orca.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. We take pride in restoring traditional spaces. 
+
+- A sample restoration project in Morro Bay: [498orca.com](https://www.498orca.com/)
+- [Numinorhomes.com](
 
 ---
+
+## The Latest
 
 {% for post in site.posts limit:2 %}
   <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
