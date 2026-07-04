@@ -2,13 +2,13 @@
 layout: default
 title: About
 ---
-## About {{ site.name }}
+## About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
 Hello! I am an entrepreneur, educator, and philosopher based in Riverside, CA.
 
-My work spans classical education, philosophy, and operations for Orthodox schools seeking to launch or be renewed. 
+My work spans classical education, philosophy, and helping Orthodox schools.
 
 ## Classical Education
 
