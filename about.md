@@ -6,7 +6,7 @@ title: About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-Hello! I am an entrepreneur, educator, and philosopher based in Riverside, CA.
+I am an entrepreneur and philosopher based in Riverside, CA.
 
 My work spans classical education, philosophy, and helping Orthodox schools.
 
@@ -21,7 +21,7 @@ After five years of service as founding headmaster of [St Andrew Academy](https:
 ## Philosophy 
 
 * I serve as Great Books professor at the Honors College at Azusa Pacific University in CA.
-* A complete record of academic history is on my [CV](https://www.drbuhler.com/cv/).
+* A complete academic history on my [CV](https://www.drbuhler.com/cv/).
 * Publications: [No Good Arguments for Causal Closure](https://www.degruyterbrill.com/document/doi/10.1515/mp-2019-0026/html?srsltid=AfmBOop0fCDCiN-d_q5_4PyDYtybTJ0WkrH1bMi5SpHHy79TkoljEzwJ)
 
 ## Asset Management
