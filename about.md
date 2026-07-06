@@ -14,8 +14,12 @@ My work spans classical education, philosophy, and helping Orthodox schools.
 
 After five years of service as founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/), I now offer a limited number of advisory engagements each year. I work primarily with educational boards on strategy, fundraising, and governance. I also encourage headmasters in creating positive teacher culture ([testimonials](/testimonials)). Inquire below. I am also a west coast [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring.
 
-* [You can join our online 2026 conference here.](https://www.stnektarioseducators.com/)
-* ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
+<html>
+
+<li>  [You can join our online 2026 conference here.](https://www.stnektarioseducators.com/) </li>
+<li> ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO) </li>
+
+</html>
 
 
 ## Philosophy 
