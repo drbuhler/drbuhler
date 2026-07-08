@@ -4,7 +4,13 @@ title: Sandbox
 permalink: /sandbox/
 ---
 
-The Sandbox lives as a dynamically updated page in Notion, so it's always current:
+*A collection of essays, resources, and unpublished writings. Updated intermittently.*
+
+- [Inklings.info](/inklings/) — a hub for free writings by and about the Inklings (Lewis, Tolkien, Williams, Barfield)
+
+## Fun projects
+
+This list lives in Notion, so it's always current:
 
 <iframe src="https://buhler.notion.site/ebd/3905d596201480239121d42ce9692aea" width="100%" height="800" frameborder="0" allowfullscreen></iframe>
 
