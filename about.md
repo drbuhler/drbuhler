@@ -6,20 +6,24 @@ title: About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-I am an entrepreneur and philosopher based in Riverside, CA. I served as the founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/).  I now offer a limited number of advisory engagements each year. I work primarily with educational boards on strategy, fundraising, and governance. I encourage headmasters in creating positive teacher culture ([testimonials](/testimonials)). I am a west coast [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring.
+I am an entrepreneur and philosopher based in Riverside, CA. I am married with four children. 
 
+From 2020-2025, I served as the founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/). I am a west coast [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring. 
 
+In 2025, I launched N.O.U.S. to help connect and empower Orthodox educators nationwide. I offer a limited number of advisory engagements, helping educational boards with strategy, fundraising, and governance and headmasters encourage headmasters to create positive teacher culture. 
 
-* You can join our online 2026 conference here.](https://www.stnektarioseducators.com/)
-* ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
+* ([Testimonials](/testimonials)).
+
+* [We are co-hosting an online 2026 conference.](https://www.stnektarioseducators.com/)
+* A recent chapter: ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
 
 
 
 ## Philosophy 
 
-* I serve as Great Books professor at the Honors College at Azusa Pacific University in CA.
+* In the classroom, I teach Great Books at the APU Honors College in Azusa, CA.
 * Publications: [No Good Arguments for Causal Closure](https://www.degruyterbrill.com/document/doi/10.1515/mp-2019-0026/html?srsltid=AfmBOop0fCDCiN-d_q5_4PyDYtybTJ0WkrH1bMi5SpHHy79TkoljEzwJ)
-* My full  [CV](https://www.drbuhler.com/cv/).
+* My full [CV](https://www.drbuhler.com/cv/).
 
 ## Asset Management
 
