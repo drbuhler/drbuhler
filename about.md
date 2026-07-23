@@ -4,21 +4,26 @@ title: About
 ---
 ## About
 
+
+"Dr. Buhler's consulting has been invaluable… he listens, diagnoses, and offers thoughtful routes to a solution." — Abbi Holt, Founder, Life Giving Spring Co-op
+
+"Dr. Buhler has skillfully woven our academy into the life of our parish." — Dr. John Brubaker, Board Chair, Saint Andrew Academy
+
 <img class="user-avatar" src="{{ site.owner.avatar }}">
+
+<br> 
 
 I am an entrepreneur and philosopher based in Riverside, CA. My work spans classical education to business. 
 
 ## Classical Education
 
 * Founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/) 
-* Professor and teacher, 2007-present
-* Start-up mentor and consultant 2025-present: working with a limited number of with educational boards on strategy, fundraising, and governance, and creating positive teacher culture. 
-* [Consulting testimonials](/testimonials). 
-* [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring. 
+* Professor and teacher. Consulting with a limited number of with educational boards on strategy, fundraising, and governance, and creating positive teacher culture. [Learn more about start-up mentoring.](/testimonials). 
 
 <html>
 
 <li>  Co-host of [a new, online 2026 Orthodox Educators conference here.](https://www.stnektarioseducators.com/) </li>
+<li> * [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring. </li>
 <li> Author of ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO) </li>
 
 </html>
