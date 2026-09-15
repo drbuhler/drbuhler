@@ -30,7 +30,7 @@ I am an entrepreneur and philosopher based in Riverside, CA. My work spans class
 
 ## Asset Management
 
-My 'tent-making' vocation is [restoring homes, managing capital, and getting complex problems unstuck.](/numinor)
+My 'tent-making' vocation is [restoring homes, managing capital, and getting complex problems unstuck.](https://numinorhomes.com/)
 
 
 ## Philosophy 

@@ -5,15 +5,15 @@ permalink:
 ---
 
 
-## NOUS - [National Orthodox United Schools](https://drbuhler.github.io/schools/)
+## NOUS - [National Orthodox United Schools](https://orthodoxschool.org/)
 
 NOUS is an organization dedicated to supporting Orthodox education worldwide. We offer an open-source directory, a resource library, and select consulting services  for homeschoolers, co-ops, church schools, and private Orthodox schools. Consider attending our [2026 Educator's conference](https://www.stnektarioseducators.com/). 
 
-- [Join the directory](emailto:dionysiusbuhler@gmail.com)
+- [Join the directory](mailto:dionysiusbuhler@gmail.com)
 - [School in a Box](https://buhler.notion.site/St-Andrew-School-in-a-Box-f4868e0ee5b542c9b41b45ae803cea33) (open source resource library)
 - [Consulting services](/testimonials) 
 
-## Numinor - [Capital placement services](/numinor)  
+## Numinor - [Capital placement services](https://numinorhomes.com/)  
 
 *Numinor* is an investment firm focused on rehabilitating unique and beautiful properties across the U.S. Numinor grows capital in high velocity restoration projects. We balance rapid gains with long-term tax advantaged positions. View a sample restoration project [in lovely Morro Bay, CA here.](https://www.498orca.com/) 
 
