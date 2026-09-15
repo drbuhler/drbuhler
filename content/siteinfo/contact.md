@@ -29,7 +29,7 @@ while(x=eval(x));
 * [Twitter](https://twitter.com/dionysiusbuhler) Dionysius Buhler
 * [Facebook](https://www.facebook.com/keithedbuhler)  Dionysius Buhler
 * Call:  area 562 the rest is 23zero 29too-zero
-* Email:  [info at dionysiusbuhler dot com](emailto:dionysiusbuhler@gmail.com)
+* Email:  [info at dionysiusbuhler dot com](mailto:dionysiusbuhler@gmail.com)
 * Snail Mail: Email me first.
 * Secure mail: Email me first for my Proton Mail 
 
