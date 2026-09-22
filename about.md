@@ -17,16 +17,11 @@ I am an entrepreneur and philosopher based in Riverside, CA. My work spans class
 
 ## Classical Education
 
-* Founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/) 
-* Professor and teacher. Consulting with a limited number of with educational boards on strategy, fundraising, and governance, and creating positive teacher culture. [Learn more about start-up mentoring.](/testimonials). 
-
-<html>
-
-<li>  Co-host of [a new, online 2026 Orthodox Educators conference here.](https://www.stnektarioseducators.com/) </li>
-<li> * [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring. </li>
-<li> Author of ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO) </li>
-
-</html>
+* Founding headmaster of [St Andrew Academy](https://www.saintandrewacademy.com/)
+* Professor and teacher. Consulting with a limited number of with educational boards on strategy, fundraising, and governance, and creating positive teacher culture. [Learn more about start-up mentoring.](/testimonials)
+* Co-host of [a new, online 2026 Orthodox Educators conference](https://www.stnektarioseducators.com/).
+* [Alcuin fellow](https://alcuinfellowship.com/), hosting conferences each Spring.
+* Author of ["Teacher as Mentor", in *Into the Light*, SVS Press 2025](https://svspress.com/into-the-light-classical-education-and-orthodox-christianity/?srsltid=AfmBOooafBbVXkE0s7z13yZ0g72p_lkISZ-ZBGok0pfxkES-xRKJEPqO)
 
 ## Asset Management
 
