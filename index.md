@@ -5,6 +5,7 @@ description: Dionysius (Keith) Buhler — entrepreneur and philosopher in Rivers
 permalink: 
 ---
 
+<p class="cta-get-in-touch"><a href="mailto:dionysiusbuhler@gmail.com?subject=Hello%20from%20drbuhler.com" style="display:inline-block;padding:0.55em 1.3em;border:2px solid currentColor;border-radius:4px;font-weight:600;text-decoration:none;">Get in touch</a></p>
 
 ## NOUS - [National Orthodox United Schools](https://orthodoxschool.org/)
 

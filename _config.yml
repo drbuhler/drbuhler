@@ -63,13 +63,11 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-71712734-1
 google_verify:  
 bing_verify:         
 
-analytics:
-  provider: "google-universal"
-  tracking_id: "UA-71712734-1"
+# Cookieless analytics (GoatCounter); snippet lives in _includes/head.html
+goatcounter: drbuhler
 
 timezone:    America/New_York
 future:      true

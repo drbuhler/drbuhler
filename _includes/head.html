@@ -6,6 +6,7 @@
 <link rel="icon" href="/assets/icons/favicon-32x32.png" type="image/png" sizes="32x32">
 <link rel="icon" href="/assets/icons/favicon-16x16.png" type="image/png" sizes="16x16">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+{% if site.goatcounter and jekyll.environment == "production" %}<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>{% endif %}
 
 <!-- Webmaster Tools verfication -->
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
