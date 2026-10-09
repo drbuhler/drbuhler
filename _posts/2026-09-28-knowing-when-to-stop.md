@@ -3,7 +3,7 @@ layout: post
 title: "Knowing When to Stop"
 description: "True wealth, true knowledge, true health: being able to stop."
 category: articles
-tags: [philosophy, wellbeing]
+tags: [philosophy, wellbeing, pensees]
 comments: false
 ---
 There is a lesson it took me many years to learn. It took me longer still to prove it to myself.

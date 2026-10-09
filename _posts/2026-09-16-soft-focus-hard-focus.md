@@ -3,7 +3,7 @@ layout: post
 title: "Soft Focus, Hard Focus: Consciousness as a Productivity Scanner"
 description: "Consciousness as a productivity scanner — soft/wide focus and hard/narrow focus."
 category: articles
-tags: [productivity, writing, philosophy]
+tags: [productivity, writing, philosophy, pensees]
 comments: false
 ---
 

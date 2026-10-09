@@ -121,3 +121,10 @@ a:hover .archive__item-subtitle {text-decoration:underline; color:#3b7aae}
   border-color: #adadad;
   text-decoration: none;
 }
+
+/* Phones: keep the four header links (About, NOUS, Numinor, Pensees) on one line */
+@media only screen and (max-width: 520px) {
+  ul.nav { white-space: nowrap; }
+  ul.nav li { margin-right: 6px !important; }
+  ul.nav li a { margin-right: 6px; }
+}
