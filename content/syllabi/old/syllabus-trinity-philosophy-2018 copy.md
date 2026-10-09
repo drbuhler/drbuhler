@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: 
-title: 
+title: "Syllabus trinity philosophy 2018 copy"
 header: 
       image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
+description: "This course is intended to cultivate students’ ability to argue well in conversation and in writing. More deeply, this course is intended to invite…"
 ---
 
 #### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-philosophy-2018.pdf)   

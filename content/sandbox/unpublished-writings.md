@@ -5,6 +5,7 @@ permalink: /unpublished-writings/
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 
+description: "I am a devout amateur, which means ‘lover.’ Everyone should create things because they love the intrinsic value of creating and love the object, whether…"
 ---
 
 

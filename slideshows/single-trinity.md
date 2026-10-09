@@ -3,6 +3,7 @@ title: Justin Martyr
 layout: slide
 theme: black
 permalink: /slideshows/single-trinity/
+description: "Lecture slides by Dr. Dionysius Buhler: Justin Martyr."
 ---
 
 <section data-background="/images/background-morality.svg"><!--Intro begin-->

@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /history/
-title: 
+title: "Syllabus trinity history bible syllabus 2018"
 header: 
       image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
+description: "This course is intended cultivate careful reading and keen understanding of history and the Holy Scriptures. By studying both history and Sacred Scripture…"
 ---
 
 #### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-history-bible-2018.pdf)   

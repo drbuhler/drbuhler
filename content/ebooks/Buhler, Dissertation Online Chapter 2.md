@@ -1,7 +1,8 @@
 ---
-title: Buhler, Becoming What You Are
+title: "Becoming What You Are — Chapter 2: Organic Naturalism"
 permalink: /dissertation2
 layout: single
+description: "Chapter 2: Organic Naturalism of Becoming What You Are: Virtue and Practical Wisdom as Natural Ends, the doctoral dissertation of Keith Buhler (University of Kentucky)."
 ---
 
 1. [Introduction](/dissertation0)

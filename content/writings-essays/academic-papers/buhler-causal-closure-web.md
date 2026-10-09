@@ -2,6 +2,7 @@
 title: Remaining Agnostic About Causal Closure
 permalink: /closure/
 layout: single
+description: "Recent debates about physicalism display an increasing attention to the causal closure premise (CC). Advocates of the causal closure of the physical…"
 ---
 
 Keith Buhler  

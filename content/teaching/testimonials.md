@@ -6,6 +6,7 @@ header:
 excerpt: 
 author_profile: true
 permalink: /testimonials
+description: "What employers, colleagues, and students say about Dr. Dionysius (Keith) Buhler as a teacher, professor, and school leader."
 ---
 
 

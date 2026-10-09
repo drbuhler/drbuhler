@@ -3,6 +3,7 @@ title: Ethical Theories
 layout: slide
 theme: night
 permalink: /slideshows/business3theories1/
+description: "Lecture slides by Dr. Dionysius Buhler: Ethical Theories."
 ---
 
 <section><!--Begin Day 1 Truth-->

@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Animal Rights"
 layout: slide
 theme: league
 permalink: /slideshows/ethics14animals/
+description: "Lecture slides by Dr. Dionysius Buhler: Animal Rights."
 ---
 
 <section data-background="/images/background-morality.svg">

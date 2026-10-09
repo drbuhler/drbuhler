@@ -5,6 +5,7 @@ permalink: /advice/
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 
+description: "Our second interview is with Professor Peter Kreeft of Boston College."
 ---
 
 Our second interview is with [Professor Peter Kreeft of Boston College.](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)

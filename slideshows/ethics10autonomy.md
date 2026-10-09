@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Autonomy"
 layout: slide
 theme: blood
 permalink: /slideshows/ethics10autonomy/
+description: "Lecture slides by Dr. Dionysius Buhler: Autonomy."
 ---
 
 <section><!--Intro slide begin-->

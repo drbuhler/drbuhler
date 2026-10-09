@@ -4,6 +4,7 @@ layout: single
 permalink: /disambiguation/
 header: 
       image: http://www.keithbuhler.com/images/josiah-grass.jpg
+description: "This site is about Dionysius (formerly Keith) Buhler, the philosopher and classical educator."
 --- 
 
 ## Redirected from kiθ bulər (disambiguation)[^1]

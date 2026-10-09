@@ -2,6 +2,7 @@
 layout: default
 title: Sandbox
 permalink: /sandbox/
+description: "Experiments, writings, and works in progress from Dr. Dionysius Buhler, including Inklings.info and a guide to writing a dissertation in plain text."
 ---
 
 - [Inklings.info](/inklings/) — a hub for free writings by and about the Inklings (Lewis, Tolkien, Williams, Barfield)

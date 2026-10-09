@@ -3,6 +3,7 @@ title: Philosophy of CS Lewis Week 1
 layout: slide
 theme: league
 permalink: /slideshows/single-cslewis/
+description: "Lecture slides by Dr. Dionysius Buhler: Philosophy of CS Lewis Week 1."
 ---
 
 <section><!--Syllabus begin-->

@@ -5,6 +5,7 @@ permalink: /critical-reading
 author_profile: true
 sidebar: 
       nav: philosophy
+description: "Critical Reading Instructions — from the archive of Dr. Dionysius Buhler."
 ---
 
 #### [(pdf version)](/philosophy-portal/critical-reading.pdf)

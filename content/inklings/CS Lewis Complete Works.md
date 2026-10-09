@@ -1,6 +1,7 @@
 ---
 title: complete works of C. S. Lewis
 permalink: /lewis/
+description: "complete works of C. S. Lewis — from the archive of Dr. Dionysius Buhler."
 ---
 
 | #  | Year | Book    | Category  (and Genre)            | Notes    |

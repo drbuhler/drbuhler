@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: league
 permalink: /slideshows/logic2025-notes/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 

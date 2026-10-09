@@ -4,6 +4,7 @@ permalink: /meditation/
 header:
       image: http://www.meditationforhealthpodcast.com/podcast/audio/2013/01/header_meditate.jpg
       teaser: http://www.meditationforhealthpodcast.com/podcast/audio/2013/01/header_meditate.jpg
+description: "In the back’s low hollow sometimes a weightless hand guides me, gentle pressure so I tack soft as a sailboat. (Go there)"
 --- 
 
 

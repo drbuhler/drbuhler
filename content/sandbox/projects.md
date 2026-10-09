@@ -7,6 +7,7 @@ header:
 intro: 
   - excerpt: ''
 
+description: "Advice to Christian Philosophers – interviews with big name philosophers"
 ---
 
 

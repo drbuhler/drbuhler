@@ -1,9 +1,10 @@
 name: Dionysius Buhler 
+title: Dionysius Buhler
 description: Seeking wisdom with Dr Buhler 
 about: A new one page directory 
 
 master_repo: false
-url: "http://drbuhler.com"
+url: "https://drbuhler.com"
 baseurl: "" # Keep this empty if it's the main site root
 markdown: kramdown
 highlighter: rouge
@@ -17,9 +18,29 @@ owner:
   instagram: "dionysiusbuhler"
   youtube: "https://www.youtube.com/c/KeithBuhler"
 
-plugins: ['jekyll-gist', 'jekyll-feed']
+# All of these are on the GitHub Pages plugin allow-list.
+plugins:
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-logo:             logo.png
+# jekyll-seo-tag
+lang: en_US
+twitter:
+  username: dionysiusbuhler
+author:
+  name: Dionysius Buhler
+  twitter: dionysiusbuhler
+social:
+  name: Dionysius Buhler
+  links:
+    - https://www.linkedin.com/in/dionysiusbuhler/
+    - https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q
+    - https://github.com/drbuhler
+
+logo:             /assets/icons/icon-192.png
 disqus_shortname:
 
 rtl: false
@@ -56,12 +77,8 @@ highlighter: rouge
 
 # Gems
 
-gems: 
-  - [jekyll-paginate]
-  - [jekyll-sitemap]
-  - [jekyll-feed]
-  - [jekyll-gist]
-  - [jekyll-archives]
+# (old 'gems:' list removed: it silently replaced 'plugins:' above, so the
+#  feed and sitemap were never generated. jekyll-archives is not supported on Pages.)
 sass:
   sass_dir: _sass
   style: compressed
@@ -123,6 +140,37 @@ defaults:
       type: 
     values: 
       layout: "page"
+  # default Open Graph / Twitter image (1200x630)
+  - scope:
+      path: ""
+    values:
+      image: /images/og-drbuhler.jpg
+  # drafts / templates kept out of sitemap.xml
+  - scope:
+      path: "content/sandbox"
+    values:
+      sitemap: false
+  - scope:
+      path: "content/new-style-one-page-website-html-css-project-master"
+    values:
+      sitemap: false
+  - scope:
+      path: "content/art"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+  # don't advertise third-party e-book PDFs or personal letters in sitemap.xml
+  - scope:
+      path: "content/ebooks/*.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "content/blog/*.pdf"
+    values:
+      sitemap: false
   - scope:
       path: "posts"
       type: ""

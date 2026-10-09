@@ -4,6 +4,7 @@ title: Nagel
 permalink: /philosophy-nagel
 sidebar: 
       nav: philosophy
+description: "Nagel, Thomas (1970). The possibility of altruism. Princeton, N.J: Oxford University Press. ISBN 9780691020020. (Reprinted in 1978, Princeton University…"
 ---
 
 

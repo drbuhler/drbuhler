@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /spanish/
-title: 
+title: "Syllabus trinity spanish2 2019"
 header: 
       image: 
+description: "The goal of this Spanish course is to develop your ability to speak Spanish. Students who take responsibility for their learning will find themselves able…"
 ---
 
 #### [PDF version of 2019-2020 Syllabus](/content/syllabi/syllabus-trinity-spanish2-2019.pdf)   

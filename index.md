@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome
+title: Dionysius Buhler
+description: Dionysius (Keith) Buhler — entrepreneur and philosopher in Riverside, CA. NOUS (National Orthodox United Schools) for Orthodox education, and Numinor capital placement.
 permalink: 
 ---
 

@@ -2,6 +2,7 @@
 title: Abolition of Man, by CS Lewis
 layout: single
 permalink: /abolition
+description: "Abolition of Man, by CS Lewis — from the archive of Dr. Dionysius Buhler."
 ---
 
 

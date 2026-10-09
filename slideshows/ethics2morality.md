@@ -3,6 +3,7 @@ title: Nature of Morality
 layout: slide
 theme: blood
 permalink: /slideshows/ethics2morality/
+description: "Lecture slides by Dr. Dionysius Buhler: Nature of Morality."
 ---
 
 <section><!--Friday begin-->

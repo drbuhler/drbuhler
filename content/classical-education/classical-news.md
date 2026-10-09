@@ -4,6 +4,7 @@ title: Classical Education in the News
 permalink: /classical-news/
 header:
       image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
+description: "Reflections by a college philosophy professor on what college is for"
 ---
 
 

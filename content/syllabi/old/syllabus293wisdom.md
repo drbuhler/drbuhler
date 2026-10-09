@@ -2,6 +2,7 @@
 layout: philosophy
 title: Syllabus S2016 PHL 293 Syllabus
 permalink: /syllabus293wisdom
+description: "Course syllabus: Syllabus S2016 PHL 293 Syllabus. Dr. Keith (Dionysius) Buhler."
 ---
 
 ## [Syllabus, Spring 2016](/pages-philosophy/syllabus-S2016-293-wisdom.pdf)

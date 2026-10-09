@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: blood
 permalink: /slideshows/intro4augustine/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section data-background="/images/background-augustine.svg"> 

@@ -1,6 +1,8 @@
 ---
+title: "Syllabus F2016 200b intro"
 layout: philosophy
 permalink: 
+description: "Course syllabus: Syllabus F2016 200b intro. Dr. Keith (Dionysius) Buhler."
 ---
 
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/pages-philosophy/syllabus200b.pdf)  

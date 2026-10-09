@@ -2,6 +2,7 @@
 title: Student Feedback, the Good and Bad
 layout: single
 permalink: /student-feedback
+description: "\" Many of the texts were very interesting. I appreciate that the Prof. Buhler understood the struggle of learning Philosophy at 8:00 in the…"
 ---
 
 ## Good

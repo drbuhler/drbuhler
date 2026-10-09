@@ -4,6 +4,7 @@ title: How to Write a Disputation
 permalink: /disputations
 sidebar: 
       nav: philosophy
+description: "Disputation papers are a particular type of philosophical essay. They argue a thesis and respond to objections to that thesis."
 ---
 
 #### [(pdf version)](/content/philosophy/disputations.pdf)

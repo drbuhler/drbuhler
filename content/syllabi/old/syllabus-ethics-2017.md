@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /ethics/
 title: Introduction to Morality and Society Syllabus
+description: "Course syllabus: Introduction to Morality and Society Syllabus. Dr. Keith (Dionysius) Buhler."
 ---
 
 #### [PDF version](/syllabi/syllabus-ethics-2017.pdf)    

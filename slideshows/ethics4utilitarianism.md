@@ -3,6 +3,7 @@ title: Utilitarianism
 layout: slide
 theme: blood
 permalink: /slideshows/ethics4utilitarianism/
+description: "Lecture slides by Dr. Dionysius Buhler: Utilitarianism."
 ---
 
 <section><!--Intro slide begin-->

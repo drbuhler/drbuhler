@@ -2,6 +2,7 @@
 layout: single
 permalink: /laptops/
 title: Why you shouldn't use your laptop in class
+description: "Why you shouldn't use your laptop in class — from the archive of Dr. Dionysius Buhler."
 --- 
 
 1. Hembroke, H. & Gay, G. (2003). “e laptop and the lecture: the effects of multitasking in learning environments.” Journal of Computing in Higher Education 15.1, 46–64.

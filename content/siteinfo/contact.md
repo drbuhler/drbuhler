@@ -6,6 +6,7 @@ author_profile: false
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 
+description: "How to follow and connect with Dr. Dionysius Buhler."
 ---
 
 <script type="text/javascript">

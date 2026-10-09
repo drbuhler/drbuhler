@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /intro-fpa
 title: Introduction to Philosophy Syllabus
+description: "Course syllabus: Introduction to Philosophy Syllabus. Dr. Keith (Dionysius) Buhler."
 ---
 
 #### [PDF of Syllabus, Spring 2017 (FPA)](/syllabi/syllabus-intro-fpa-spring-2017.pdf)   

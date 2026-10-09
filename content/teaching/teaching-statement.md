@@ -4,6 +4,7 @@ title: Teaching Statement
 permalink: /teaching-statement/
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+description: "My primary pedagogical goal is to create a learning culture that enables students to grow in virtue and wisdom. Being a full-time educator for more than…"
 ---
 
 

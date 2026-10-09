@@ -5,6 +5,7 @@ permalink: /philosophy-6-next
 author_profile: false
 sidebar: 
       nav: philosophy
+description: "OK, OK! Try these. Cut your teeth on Aristotle or Kant. It’ll give you the burn that only philosophy can."
 --- 
 
 

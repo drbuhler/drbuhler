@@ -4,6 +4,7 @@ title: Disputation Topics
 permalink: /disputation-topics
 sidebar: 
       nav: philosophy
+description: "If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created…"
 ---
 
 {% include toc %}

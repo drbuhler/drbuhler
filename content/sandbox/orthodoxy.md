@@ -2,6 +2,7 @@
 title: Orthodox Christianity
 permalink: /orthodoxy
 layout: single
+description: "\"Orthodox Christianity is the authentic and original Christian Faith founded by Jesus Christ. As an Orthodox Christian you can experience heaven on earth…"
 ---
 
 

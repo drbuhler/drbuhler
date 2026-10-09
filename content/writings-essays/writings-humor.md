@@ -2,6 +2,7 @@
 title: Humor
 layout: single
 permalink: /writings-humor/
+description: "Humor/Satire Google Acquires U.S. Government I am American 2014 College Budget Completely Cuts Faculty Salary College Student Might Give Professor a \"2\"…"
 ---
 
 

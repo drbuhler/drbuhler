@@ -2,6 +2,7 @@
 title: Poetry
 layout: single
 permalink: /writings-poetry/
+description: "Poetry The Boy and the Poem Lake Lumen Wisconsin Winter"
 ---
 
 ### Poetry

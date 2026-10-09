@@ -4,6 +4,7 @@ layout: single
 header: 
       image: https://i.ytimg.com/vi/3t0JQ0f2AvQ/maxresdefault.jpg
 permalink: /phd/
+description: "To peruse my dissertation, you may want to download the PDF . The PDF has all the content, citations, and proper formatting."
 ---
 
 

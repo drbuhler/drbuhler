@@ -3,6 +3,7 @@ layout: slide
 title: business 4 deontology
 theme: serif
 permalink: /slideshows/single-ethical-theories-kant/
+description: "Lecture slides by Dr. Dionysius Buhler: business 4 deontology."
 ---
 
 <section><!--begin-->

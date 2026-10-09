@@ -4,6 +4,7 @@ permalink: /privacy
 layout: single
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
+description: "Privacy policy and affiliate disclosure for drbuhler.com: what visitor information is collected and how it is used."
 ---
 
 ### Introduction

@@ -6,6 +6,7 @@ sidebar:
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 permalink: /student-evals
+description: "2016 Fall – Business Ethics 004 (1-5 scale) Business Ethics 003 (1-5 scale) Health Care Ethics 002 (1-4 scale) Health Care Ethics 003 (1-4 scale)…"
 ---
 
 ## 2016 

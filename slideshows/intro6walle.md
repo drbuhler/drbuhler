@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: sky
 permalink: /slideshows/intro6walle/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section data-background=""><!--Day 1 begin-->

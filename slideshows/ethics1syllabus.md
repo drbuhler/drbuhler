@@ -3,6 +3,7 @@ title: Morality and Society Introduction and Syllabus
 layout: slide
 theme: league
 permalink: /slideshows/ethics1syllabus/
+description: "Lecture slides by Dr. Dionysius Buhler: Morality and Society Introduction and Syllabus."
 ---
 
 <section><!--Syllabus begin-->

@@ -3,6 +3,7 @@ title: Duties to the Environment
 layout: slide
 theme: blood
 permalink: /slideshows/ethics15environment/
+description: "Lecture slides by Dr. Dionysius Buhler: Duties to the Environment."
 ---
 
 <section data-background="/images/background-morality.svg"> <!--Intro slide begin-->

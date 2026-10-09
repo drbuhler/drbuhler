@@ -4,6 +4,7 @@ title: Extra Credit Instructions (beta)
 permalink: /extra-credit
 sidebar: 
       nav: philosophy
+description: "You may want extra credit. This assignment is available for all, but recommended especially if you failed a Disputation, or have many unexcused absences…"
 ---
 
 You may want extra credit. This assignment is available for all, but recommended especially if you failed a Disputation, or have many unexcused absences, or missed a lot of reading. (Those who already have a high grade [98+] are welcome, but not encouraged, to take this opportunity.) If you would like to earn some extra credit, here’s how. 

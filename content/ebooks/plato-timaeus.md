@@ -1,3 +1,7 @@
+---
+title: "Plato, Timaeus"
+description: "Plato's Timaeus, translated by Benjamin Jowett, from the Internet Classics Archive."
+---
 Provided by The Internet Classics Archive. Available online at     http://classics.mit.edu//Plato/timaeus.html 
 Timaeus By Plato 
  Translated by Benjamin Jowett 

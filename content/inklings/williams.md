@@ -4,6 +4,7 @@ title: Charles Williams
 permalink: /inklings/williams/
 header:
       image: 
+description: "The vision of the Inklings.info is to be the one-stop hub for free writings by the Inklings and free information about the Inklings."
 ---
 
 ### **WELCOME**

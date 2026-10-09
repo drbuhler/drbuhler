@@ -4,6 +4,7 @@ title: Writing Introductions and Conclusions
 permalink: /introductions
 header:
       image: 
+description: "Virtue ethics is currently one of three major approaches in normative ethics. It may, initially, be identified as the one that emphasizes the virtues, or…"
 ---
 
 {% include toc %}

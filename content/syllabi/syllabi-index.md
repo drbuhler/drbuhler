@@ -9,6 +9,7 @@ permalink: /syllabi/
 feature_row:
 
 
+description: "Great Books I - IV (Roman, Greek, European, American, and Modern)"
 ---
 
 {% include feature_row id="intro" type="center" %}

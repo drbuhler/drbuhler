@@ -3,6 +3,7 @@ title: St Elizabeth the New Martyr Scholarship
 layout: single
 author_profile: false
 permalink: /scholarship2/
+description: "We are pleased to announce a new scholarship opportunity for Orthodox high school and college students."
 ---
 
 We are pleased to announce a new scholarship opportunity for Orthodox high school and college students. 

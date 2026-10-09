@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: "About Dionysius (Keith) Buhler: entrepreneur and philosopher in Riverside, CA — classical education, Orthodox schools, philosophy, and asset management."
 ---
 ## About
 
@@ -9,7 +10,7 @@ title: About
 
 "Dr. Buhler has skillfully woven our academy into the life of our parish." — Dr. John Brubaker, Board Chair, Saint Andrew Academy
 
-<img class="user-avatar" src="{{ site.owner.avatar }}">
+<img class="user-avatar" src="{{ site.owner.avatar }}" alt="Dionysius Buhler reading from a service book during a church service">
 
 <br> 
 

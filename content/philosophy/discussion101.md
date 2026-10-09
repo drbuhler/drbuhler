@@ -5,6 +5,7 @@ permalink: /discussion101
 author_profile: false
 sidebar: 
       nav: philosophy
+description: "Discussion 101 — from the archive of Dr. Dionysius Buhler."
 ---
 
 *Ground Rules for Following the Logos*

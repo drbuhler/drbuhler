@@ -1,3 +1,7 @@
+---
+title: "The master skills: reading, writing, speaking"
+description: "Notes and sources on the classical master skills of reading, writing, and speaking."
+---
 
 ## The master skills: reading, writing, speaking 
 

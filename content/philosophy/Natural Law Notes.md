@@ -1,3 +1,7 @@
+---
+title: "Natural Law Notes"
+description: "Notes on natural law, moral realism, and moral objectivism."
+---
 > Geoffrey Sayre-McCord (1988), for example, views moral objectivism as one species of moral realism, but not the only form; on Sayre-McCord's view, moral subjectivism and moral intersubjectivism are also forms of moral realism.
 
 

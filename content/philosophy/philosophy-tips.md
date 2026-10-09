@@ -5,9 +5,10 @@ permalink: /philosophy-tips
 author_profile: true
 sidebar: 
 
+description: "The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand…"
 ---
 
-<img src="/images/beard-mechanics.jpg">
+<img src="/images/beard-mechanics.jpg" alt="Two portraits of bearded men in dark work jackets posing with tools">
 
 {% include toc %}
 

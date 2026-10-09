@@ -2,6 +2,7 @@
 title: Way of the Ascetics By Tito Colliander 
 layout: single
 permalink: /ascetics
+description: "The \"Way of the Ascetics\" is an introduction to the narrow way that leads to life. It is a simple yet profound exposition of the spiritual life taught by…"
 ---
 
 # Introduction

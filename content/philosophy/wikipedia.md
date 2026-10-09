@@ -5,6 +5,7 @@ comments: true
 permalink: /wikipedia
 header:
       image: http://www.ericgarland.co/wp-content/uploads/pix/2016/01/Things-I-learned-from-Guitar-Center.jpg
+description: "If you click the first blue link on any Wikipedia article (that is not in parentheses), it will take you to another article. If you click the first blue…"
 ---
 
 

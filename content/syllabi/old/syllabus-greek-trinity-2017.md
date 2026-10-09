@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /greek2017/
-title: 
+title: "Syllabus greek trinity 2017"
 header: 
       image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
+description: "This course aims to enable you to begin reading, understanding, and translating Ancient Greek."
 ---
 
 #### [PDF version of 2017-2018 Syllabus](/content/syllabi/syllabus-greek-trinity-2017.pdf)   

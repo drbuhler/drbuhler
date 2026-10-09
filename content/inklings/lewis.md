@@ -4,6 +4,7 @@ title: C.S. Lewis
 permalink: /inklings/lewis/
 header:
       image: 
+description: "Canadian Public Domain books (do not download in U.S. – check your local laws!) Tolkien"
 ---
 
 ### INTRODUCTION

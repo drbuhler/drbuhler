@@ -4,6 +4,7 @@ title: Why Educate?
 permalink: /classical-purpose/
 header:
       image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
+description: "Traditionally, education has had two related but distinct purposes."
 ---
 
 

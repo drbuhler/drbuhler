@@ -3,6 +3,7 @@ title: Moral Law
 layout: slide
 theme: night
 permalink: /slideshows/business7morallaw/
+description: "Lecture slides by Dr. Dionysius Buhler: Moral Law."
 ---
 
 <section> <!--begin day 1-->

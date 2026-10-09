@@ -3,6 +3,7 @@ layout: slide
 title: Business Ethics Week 05 -  Virtue Ethics
 theme: simple
 permalink: /slideshows/single-ethical-theories-virtue/
+description: "Lecture slides by Dr. Dionysius Buhler: Business Ethics Week 05 -  Virtue Ethics."
 ---
 
 <section><!--begin-->

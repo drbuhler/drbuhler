@@ -110,15 +110,15 @@ body, html {
   <div class="w3-row-padding w3-center">
     
     <div class="w3-col m3">
-      <img src="/images/desert1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/desert1.jpg" alt="Desert landscape with scrub brush and a weathered dead tree under a cloudy sky" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
     <div class="w3-col m3">
-      <img src="/images/desert2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/desert2.jpg" alt="Desert hillside with a cholla cactus in the foreground" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
        <div class="w3-col m3">
-      <img src="/images/italy.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/italy.jpg" alt="A group of travelers looking at a map together on a city street in Italy" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
   </div>
@@ -128,11 +128,11 @@ body, html {
 
   <div class="w3-row-padding w3-center">
       <div class="w3-col m3">
-            <img src="/images/peters1.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+            <img src="/images/peters1.png" alt="Looking up into the ornate interior of the dome of St. Peter's Basilica" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/peters.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/peters.jpg" alt="Interior of St. Peter's Basilica with light streaming in from above" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
   </div>
@@ -143,15 +143,15 @@ body, html {
      <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-        <img src="/images/tiger-box.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+        <img src="/images/tiger-box.jpg" alt="Four views of a sculpted orange-and-black tiger lying on a box" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     <div class="w3-col m3">
-      <img src="/images/gandalf4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/gandalf4.jpg" alt="Clay sculpture of Gandalf holding a staff" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
     <div class="w3-col m3">
-      <img src="/images/dante1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/dante1.jpg" alt="Clay bust sculpture of a man in a hooded cap, likely Dante" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
   </div>
 
@@ -161,15 +161,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/pumpkin-harry.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/pumpkin-harry.jpg" alt="Man sitting on porch steps holding a baby in a dalmatian costume, next to a carved jack-o'-lantern" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/pumpkin-jabba.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/pumpkin-jabba.JPG" alt="Glowing jack-o'-lantern carved as Jabba the Hutt" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
       <div class="w3-col m3">
-      <img src="/images/pumpkinzilla.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/pumpkinzilla.jpg" alt="Large orange pumpkin carved as a monster about to eat two small white pumpkins" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
     </div>
 
@@ -181,11 +181,11 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/thomas.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/thomas.jpg" alt="Birthday cake shaped like Thomas the Tank Engine" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/trex.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/trex.JPG" alt="Green dinosaur birthday cake with a number 4 candle and cupcakes" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   </div>
 
@@ -193,13 +193,13 @@ body, html {
   <h3 class="w3-center">GRAPHIC DESIGN</h3>
   <div class="w3-row-padding w3-center">
       <div class="w3-col m3">
-      <img src="/images/gregorylogo.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/gregorylogo.png" alt="Logo design: a black cross with a circle and triangle at its center and the letters G and N" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
 
 
       <div class="w3-col m3">
-      <img src="/images/art1.1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art1.1.jpg" alt="Printed tri-fold brochure laid open, with numbered steps beginning with &quot;Concept&quot;" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
   </div>
@@ -211,7 +211,7 @@ body, html {
 
 
       <div class="w3-col m3">
-      <img src="/images/art2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art2.jpg" alt="Painting of a Swiss Army knife on a purple background" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     </div>
@@ -221,21 +221,21 @@ body, html {
   <div class="w3-row-padding w3-center">
     
     <div class="w3-col m3">
-      <img src="/images/wither.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/wither.jpg" alt="Pencil drawing of a winged horse pulling a chariot" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
   <div class="w3-row-padding w3-center">
 
      <div class="w3-col m3">
-      <img src="/images/art4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art4.jpg" alt="Charcoal figure drawing of a seated man resting his head on his hand beside a skull" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art5.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art5.jpg" alt="Charcoal figure drawing of a seated man" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art7.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art7.jpg" alt="Charcoal figure drawing of a reclining figure seen from the feet" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
  
@@ -246,15 +246,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/art8.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art8.jpg" alt="Pencil self-portrait study of a young man's face" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art9.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art9.jpg" alt="Pencil figure drawing of a seated woman" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
         <div class="w3-col m3">
-      <img src="/images/art19.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art19.jpg" alt="Pencil drawing of a seated woman with long hair" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     </div>
@@ -262,15 +262,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/art10.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art10.jpg" alt="Anatomical pencil drawing of a male figure seen from behind" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art12.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art12.jpg" alt="Gesture drawing of a standing woman" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
       <div class="w3-col m3">
-      <img src="/images/art13.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art13.jpg" alt="Ink gesture drawing of a seated figure" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     </div>
@@ -278,15 +278,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/art14.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art14.jpg" alt="Ink gesture drawing of a standing figure seen from behind" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art15.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art15.jpg" alt="Ink figure drawing of a man seated on a stool with one knee raised" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
       <div class="w3-col m3">
-      <img src="/images/art16.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art16.jpg" alt="Ink drawing of an older man seated in a chair" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     </div>
@@ -295,15 +295,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
     <div class="w3-col m3">
-      <img src="/images/art17-1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art17-1.jpg" alt="Charcoal drawing of a seated woman in profile" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     <div class="w3-col m3">
-      <img src="/images/art17-2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art17-2.jpg" alt="Charcoal study of a seated figure's legs and arm" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     <div class="w3-col m3">
-      <img src="/images/art17-4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art17-4.jpg" alt="Charcoal drawing of a woman with long hair in profile" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
   </div>
@@ -312,22 +312,22 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/art11sketch-man-sitting-front-1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art11sketch-man-sitting-front-1.jpg" alt="Light pencil sketch of a seated man, first stage" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
     </div>
 
       <div class="w3-col m3">
-        <img src="/images/art11sketch-man-sitting-front-2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+        <img src="/images/art11sketch-man-sitting-front-2.jpg" alt="Pencil sketch of a seated man, second stage" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
 
       <div class="w3-col m3">
-        <img src="/images/art11sketch-man-sitting-front-3.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+        <img src="/images/art11sketch-man-sitting-front-3.jpg" alt="Pencil study of the seated man's face" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
 
      <div class="w3-col m3">
-      <img src="/images/art11sketch-man-sitting-front-4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art11sketch-man-sitting-front-4.jpg" alt="Pencil sketch of a seated man, final stage" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
     </div>
 
@@ -335,15 +335,15 @@ body, html {
   <div class="w3-row-padding w3-center">
 
       <div class="w3-col m3">
-      <img src="/images/art20.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art20.jpg" alt="Pencil still life of wristwatches and small objects" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
       <div class="w3-col m3">
-      <img src="/images/art21.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art21.jpg" alt="Charcoal still life of a bottle, fruit, a pumpkin and a plaster ear" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
   
       <div class="w3-col m3">
-      <img src="/images/art22.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
+      <img src="/images/art22.jpg" alt="Charcoal still life of a teapot, pitcher and bottles on draped cloth" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       </div>
 
     </div>
@@ -356,7 +356,7 @@ body, html {
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-closebtn w3-hover-red w3-text-white w3-xxxlarge w3-container w3-display-topright">×</span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
-    <img id="img01" style="max-width:100%">
+    <img id="img01" style="max-width:100%" alt="Enlarged view of the selected artwork">
   </div>
 </div>
 

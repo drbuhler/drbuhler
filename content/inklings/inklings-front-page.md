@@ -4,6 +4,7 @@ title: The Inklings
 permalink: /inklings/
 header:
       image: 
+description: "Inklings.info: a one-stop hub for free writings by and information about the Inklings — C. S. Lewis, J. R. R. Tolkien, Charles Williams, and Owen Barfield."
 ---
 
 ### **WELCOME**

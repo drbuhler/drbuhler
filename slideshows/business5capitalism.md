@@ -3,6 +3,7 @@ title: Capitalism
 layout: slide
 theme: beige
 permalink: /slideshows/business5capitalism/
+description: "Lecture slides by Dr. Dionysius Buhler: Capitalism."
 ---
 
 <section>

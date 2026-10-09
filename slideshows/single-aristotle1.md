@@ -3,6 +3,7 @@ title: Aristotle on Happiness
 layout: slide
 theme: night
 permalink: /slideshows/single-aristotle1/
+description: "Lecture slides by Dr. Dionysius Buhler: Aristotle on Happiness."
 ---
 
 <section><!--Lecture begin-->

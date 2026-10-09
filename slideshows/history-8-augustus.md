@@ -3,6 +3,7 @@ layout: slide
 theme: black
 title: August Caesar
 permalink: /slideshows/history-8-augustus/
+description: "Lecture slides by Dr. Dionysius Buhler: August Caesar."
 --- 
 
 

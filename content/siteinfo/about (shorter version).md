@@ -4,6 +4,7 @@ title: About Buhler
 permalink: /about/
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
+description: "\"Makes philosophy come alive\" – Dr. Chris Bounds, Asbury University"
 --- 
 
 <br> 

@@ -4,6 +4,7 @@ layout: slide
 theme: black
 
 permalink: /slideshows/orthodoxeducation/
+description: "Lecture slides by Dr. Dionysius Buhler: Orthodox Education."
 ---
 
 

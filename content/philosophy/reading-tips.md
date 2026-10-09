@@ -4,6 +4,7 @@ title: How Do I Get Better at Reading Philosophy?
 permalink: /reading
 sidebar:
       nav: philosophy
+description: "Read ahead, re-read, and think about what you’ve read. Read slowly; you will naturally get faster as the semester goes on."
 ---
 
 

@@ -5,6 +5,7 @@ permalink: /writings/
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 
+description: "\"Middle Dwellers – How Human Beings Belong on Earth\" (in Symposium )"
 ---
 
 ## Classical Education

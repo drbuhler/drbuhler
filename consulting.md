@@ -7,6 +7,7 @@ header:
 intro: 
   - excerpt: ''
 
+description: "Fractional board, administrative, academic, and development help for classical and Orthodox schools from Dr. Dionysius Buhler."
 ---
 
 

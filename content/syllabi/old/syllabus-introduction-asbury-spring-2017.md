@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /introduction
 title: Introduction to Philosophy Syllabus, Spring 2017
+description: "Course syllabus: Introduction to Philosophy Syllabus, Spring 2017. Dr. Keith (Dionysius) Buhler."
 ---
 
 #### [PDF of Syllabus, Spring 2017](/syllabi/syllabus-introduction-asbury-spring-2017.pdf)    

@@ -5,6 +5,7 @@ author_profile: false
 sidebar: 
       nav: philosophy
 permalink: /participation
+description: "The participation component is a large portion of your grade in this class. More importantly, your participation is essential to learning. Expressing your…"
 ---
 
 ![picture](http://img.bhs4.com/04/4/0449a595911cfc5be9a9bf0308310b2aa180a6f4_large.jpg)

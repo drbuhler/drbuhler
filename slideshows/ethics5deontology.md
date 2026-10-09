@@ -3,6 +3,7 @@ title: Deontology
 layout: slide
 theme: blood
 permalink: /slideshows/ethics5deontology/
+description: "Lecture slides by Dr. Dionysius Buhler: Deontology."
 ---
 
 

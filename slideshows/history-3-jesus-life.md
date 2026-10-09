@@ -3,6 +3,7 @@ title: The Ministry of Jesus Christ
 layout: slide
 theme: black
 permalink: /slideshows/history-3-jesus-life/
+description: "Lecture slides by Dr. Dionysius Buhler: The Ministry of Jesus Christ."
 ---
 
 <section data-background="/images/background-morality.svg"><!--Intro begin-->

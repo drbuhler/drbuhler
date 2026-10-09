@@ -3,6 +3,7 @@ title: Western Philosophy and Pre-Rhetoric
 layout: slide
 theme: league
 permalink: /slideshows/philosophy-syllabus/
+description: "Lecture slides by Dr. Dionysius Buhler: Western Philosophy and Pre-Rhetoric."
 ---
 
 <section><!--Syllabus begin-->

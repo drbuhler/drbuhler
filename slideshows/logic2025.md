@@ -3,6 +3,7 @@ title: Logic
 layout: slide
 theme: league
 permalink: /slideshows/logic2025/
+description: "Lecture slides by Dr. Dionysius Buhler: Logic."
 ---
 
 <section data-background="/images/tree-of-science.png"><!--Super intro Day 1 begin-->

@@ -4,6 +4,7 @@ title: How to Complete a PhD (in Philosophy)
 permalink: /phd-how-to
 sidebar: 
       nav: philosophy
+description: "( Another page explains my research. This post offers advice on each stage of the process. )"
 --- 
 
 

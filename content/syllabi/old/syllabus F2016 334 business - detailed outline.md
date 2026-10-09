@@ -1,3 +1,7 @@
+---
+title: "Business Ethics: Detailed Course Outline (Fall 2016)"
+description: "Day-by-day outline for Dr. Keith Buhler's Fall 2016 business ethics course."
+---
 
 
 ### Course Outline (Detailed)

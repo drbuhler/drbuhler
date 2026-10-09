@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Term Paper Workshop"
 layout: slide
 theme: league
 permalink: /slideshows/business15term/
+description: "Lecture slides by Dr. Dionysius Buhler: Term Paper Workshop."
 ---
 
 <section data-background="/images/background-lexington.svg" ><!--Intro slide begin-->

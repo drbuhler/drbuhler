@@ -3,6 +3,7 @@ layout: single
 title: Why Pursuing the Good is Rational
 permalink: /motives/
 
+description: "Can one be both vice-ridden and practically rational? Philosophers are divided on the question of whether practical reason is instrumental to any end or…"
 ---
 
 #### [PDF version](/content/writings/academic-papers/buhler-rational-motives.web.pdf)

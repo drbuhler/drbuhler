@@ -1,6 +1,8 @@
 ---
+title: "Scope and Sequence"
 layout: philosophy
 permalink: syllabus2002016
+description: "Course syllabus: Scope and Sequence. Dr. Keith (Dionysius) Buhler."
 ---
 
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/pages-philosophy/syllabus200.pdf)  

@@ -1,4 +1,5 @@
 ---
+title: "Art"
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://www.keithbuhler.com/images/trump-illegals.png
@@ -10,6 +11,7 @@ author_profile: false
 share: true
 excerpt_separator: <!--more-->
 
+description: "Art — from the archive of Dr. Dionysius Buhler."
 ---
 
 

@@ -7,6 +7,7 @@ header:
 author_profile: false
 sidebar: 
       nav: philosophy
+description: "Should I consider a philosophy major/minor? — from the archive of Dr. Dionysius Buhler."
 ---
 
 #### [(pdf version)](/philosophy-3-major.pdf)

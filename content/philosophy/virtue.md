@@ -2,6 +2,7 @@
 layout: philosophy
 title: Virtue
 
+description: "Virtue ethics is at least three things: a thriving research program in contemporary analytic philosophy (critiquing and defending neo-Aristotelian…"
 --- 
 
 

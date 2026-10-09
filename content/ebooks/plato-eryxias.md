@@ -1,6 +1,7 @@
 ---
 title: Plato, Eryxias
 layout: philosophy
+description: "It happened by chance that Eryxias the Steirian was walking with me in the Portico of Zeus the Deliverer, when there came up to us Critias and…"
 ---
 
 

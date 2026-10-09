@@ -1,3 +1,7 @@
+---
+title: "Syllabi index (draft)"
+description: "Draft index of course syllabi by Dr. Keith Buhler."
+---
 <!---     - image_path: http://www.keithbuhler.com/images/syllabus-334.png
         alt: "Ancient History"
         title: "Ancient History"

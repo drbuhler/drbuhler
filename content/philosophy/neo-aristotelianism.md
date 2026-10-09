@@ -4,6 +4,7 @@ title: Neo-Aristotelianism
 permalink: /aristotle
 header:
       image: 
+description: "Any updated variety of Aristotelianism, from the Middle Ages to the present; in particular, a strain of moral philosophy in the late 20th century that…"
 ---
 
 

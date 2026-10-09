@@ -2,6 +2,7 @@
 title:  Vainglory is Not Merely a Form of Pride
 permalink: /vainglory/
 layout: single
+description: "Abstract : Contemporary virtue ethicists rarely, if ever, address vainglory or kenodoxia . Instead, vainglory is often conflated with pride or dismissed…"
 ---
 
 

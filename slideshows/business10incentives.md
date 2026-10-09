@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Incentives"
 layout: slide
 theme: league
 permalink: /slideshows/business10incentives/
+description: "Lecture slides by Dr. Dionysius Buhler: Incentives."
 ---
 
 <section data-background="/images/background-lexington.svg" ><!--Intro slide begin-->

@@ -1,7 +1,8 @@
 ---
-title: Buhler, Becoming What You Are
+title: "Becoming What You Are — Chapter 7: Conclusion"
 permalink: /dissertation7
 layout: single
+description: "Chapter 7: Conclusion of Becoming What You Are: Virtue and Practical Wisdom as Natural Ends, the doctoral dissertation of Keith Buhler (University of Kentucky)."
 ---
 
 
