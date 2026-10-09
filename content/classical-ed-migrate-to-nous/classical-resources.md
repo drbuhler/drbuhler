@@ -4,6 +4,7 @@ title: Classical Education Resources
 permalink: /classical-resources/
 header:
       image: https://images.unsplash.com/photo-1503152394-c571994fd383?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+description: "Rebekah Hagstrom – What if everyone had a classical education?"
 ---
 
 

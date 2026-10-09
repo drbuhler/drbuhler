@@ -3,6 +3,7 @@ title: Bios - A Life
 layout: slide
 theme: black
 permalink: /slideshows/history-2-bios/
+description: "Lecture slides by Dr. Dionysius Buhler: Bios - A Life."
 ---
 
 

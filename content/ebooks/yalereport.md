@@ -2,6 +2,7 @@
 layout: single
 permalink: /yalereport
 title: The Yale Report of 1828
+description: "The \"Yale Report of 1828\" is one of the \"most influential documents in the history of American higher education\" according to R.J. O’Hara. It is still a…"
 ---
 
 ### Introduction by Keith Buhler

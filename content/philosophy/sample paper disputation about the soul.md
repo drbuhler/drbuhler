@@ -1,3 +1,7 @@
+---
+title: "Sample paper: a disputation about the soul"
+description: "A sample student disputation about the soul, showing the level of engagement and comprehension expected in philosophy papers."
+---
  This disputation is tersely written and somewhat crudely argued. However, it shows you the level of sophistication, engagement, comprehension, and historical awareness of even my average students in an intro/philosophy class at a private liberal arts college. Makes a heart proud: 
 
 

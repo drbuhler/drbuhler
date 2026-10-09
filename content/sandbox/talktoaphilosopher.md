@@ -6,6 +6,7 @@ permalink: /talk/
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 
+description: "You have a question about metaphysics, ethics, or philosophy of religion but don’t know where to even start. You can talk to me at $50 for 20 minutes."
 ---
 
 You have a question about metaphysics, ethics, or philosophy of religion but don't know where to even start.  You can talk to me at $50 for 20 minutes. 

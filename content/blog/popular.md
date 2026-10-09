@@ -10,6 +10,7 @@ related: false
 read-more: false
 sidebar: 
     nav: categories
+description: "04.01.2017 – A Recent Chapter on Deification His article clarifies what the notion of \"becoming god\" amounts to, and explains the various species of…"
 ---
 
 - 04.01.2017 --  [**A Recent Chapter on Deification**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/04/01/deification.html) *His article clarifies what the notion of “becoming god” amounts to, and explains the various species of deifiction: political deification, deification through beauty, deification as magic, deification as imitation, Christian deification, self-deification, deification through Gnosticism. This is all historically informative and very interesting; the kicker is that he accurately covers our own fashionable form of deification: techno-deification.*

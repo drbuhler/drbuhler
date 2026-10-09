@@ -2,6 +2,7 @@
 layout: philosophy
 title: Plagiarism
 permalink: /plagiarism
+description: "Integrity, as partially defined by the Student or Program Handbook on Community Life Expectations, is \"both knowing the right thing to do and doing it…"
 ---
 
 # Plagiarism and Academic Integrity (Asbury)

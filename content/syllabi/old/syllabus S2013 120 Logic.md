@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /syllabus120-spring-2013-logic/
 title: Logic Syllabus
+description: "Course syllabus: Logic Syllabus. Dr. Keith (Dionysius) Buhler."
 ---
 
 

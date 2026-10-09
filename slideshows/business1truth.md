@@ -3,6 +3,7 @@ title: Truth
 layout: slide
 theme: night
 permalink: /slideshows/business1truth/
+description: "Lecture slides by Dr. Dionysius Buhler: Truth."
 ---
 
 <section><!--Begin Day 1 Truth-->

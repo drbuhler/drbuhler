@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: phl200/
-title: 
+title: "Syllabus phl200 summer 2020"
 header: 
       image: 
+description: "Course syllabus: Syllabus phl200 summer 2020. Dr. Keith (Dionysius) Buhler."
 ---
 <br> 
 <br> 

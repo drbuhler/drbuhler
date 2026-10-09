@@ -2,6 +2,7 @@
 layout: philosophy
 title: 305 Syllabus Spring 2016
 permalink: /syllabus-S2016-305-health-care
+description: "Course syllabus: 305 Syllabus Spring 2016. Dr. Keith (Dionysius) Buhler."
 ---
 
 **[305 Syllabus, Spring 2016](/pages-philosophy/syllabus-S2016-305-health-care.pdf)**

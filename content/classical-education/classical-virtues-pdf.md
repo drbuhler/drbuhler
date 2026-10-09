@@ -1,3 +1,7 @@
+---
+title: "The Classical Virtues"
+description: "The seven classical virtues define human excellence: a framework for approaching morality and living a flourishing life."
+---
 **The Classical Virtues**
 
 The seven classical virtues define human excellence. The virtue framework helps people approach morality and live a flourishing, successful life. There do exist other lists of virtues, fruits of the spirit, and so on, but this simple framework is both profound and enduring. The four virtues are found in Plato, Aristotle, as well as in the Bible and Christian authors such as St. Augustine and C.S. Lewis. Christ himself exemplifies all the virtues. The opposite of the virtues are vices. All people have some measure of virtue but through repentance we can overcome our vices and increase our virtues more and more. 

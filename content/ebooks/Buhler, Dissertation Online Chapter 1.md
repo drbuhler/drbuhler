@@ -1,7 +1,8 @@
 ---
-title: Becoming What You Are, Chapter 1
+title: "Becoming What You Are — Chapter 1: Many Sorts of Naturalism"
 permalink: /dissertation1
 layout: single
+description: "Chapter 1: Many Sorts of Naturalism of Becoming What You Are: Virtue and Practical Wisdom as Natural Ends, the doctoral dissertation of Keith Buhler (University of Kentucky)."
 ---
 
 

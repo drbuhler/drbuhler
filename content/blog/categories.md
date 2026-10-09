@@ -4,6 +4,7 @@ title: All Posts by Category
 permalink: /categories/
 header:
   image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+description: "All Posts by Category — from the archive of Dr. Dionysius Buhler."
 ---
 
 <div class="container docs-container">

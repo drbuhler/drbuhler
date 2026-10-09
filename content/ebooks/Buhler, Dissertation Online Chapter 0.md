@@ -1,7 +1,8 @@
 ---
-title: Becoming What You Are, Virtue and Practical Wisdom as Natural Ends
+title: "Becoming What You Are — Introduction"
 permalink: /dissertation0/
 layout: single
+description: "Introduction of Becoming What You Are: Virtue and Practical Wisdom as Natural Ends, the doctoral dissertation of Keith Buhler (University of Kentucky)."
 ---
 
 

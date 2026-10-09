@@ -3,6 +3,7 @@ layout: slide
 title: Utilitarianism
 theme: black
 permalink: /slideshows/single-ethical-theories-utilitarianism/
+description: "Lecture slides by Dr. Dionysius Buhler: Utilitarianism."
 ---
 
 <section><!--Begin Day 1 Truth-->

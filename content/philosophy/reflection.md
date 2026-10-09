@@ -4,6 +4,7 @@ title: Reflection Paper Instructions
 permalink: /reflection
 sidebar: 
       nav: philosophy
+description: "As per the syllabus, you are expected to attend, talk/write, and do group presentations for participation points. Every week you are expected to talk in…"
 ---
 
 As per the syllabus, you are expected to attend, talk/write, and do group presentations for participation points. Every week you are expected to talk in class at least once, or post notes/reflections on the discussion board.

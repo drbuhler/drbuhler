@@ -4,6 +4,7 @@ title: Disputation Topics  (Spring 2017)
 permalink: /disputation-topics-intro
 sidebar: 
       nav: philosophy
+description: "Three core Christian beliefs are that God exists and created the world, that all men are sinful, and that Christ died and rose again for our salvation. JP…"
 ---
 
 

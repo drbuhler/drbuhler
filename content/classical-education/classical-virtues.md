@@ -4,6 +4,7 @@ title: The Seven Classical Virtues Resources
 permalink: /virtues
 header:
       image: 
+description: "The seven classical virtues describe a person with human excellence. The virtue framework is the classical approach to morality and how to live a…"
 ---
 
 

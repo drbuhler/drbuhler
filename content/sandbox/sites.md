@@ -4,6 +4,7 @@ layout: single
 permalink: /sites
 header:
       image:
+description: "Your own lovely, professional academic site is available for a low initial cost of $100, plus a monthly $5 fee for domain, hosting, site maintenance, and…"
 ---
 
 

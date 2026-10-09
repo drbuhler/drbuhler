@@ -5,6 +5,7 @@ permalink: /slideshows/
 sidebar: 
       nav: philosophy
 
+description: "Lecture slides by Dr. Dionysius Buhler: Slideshows Index."
 ---
 
 *Under construction*

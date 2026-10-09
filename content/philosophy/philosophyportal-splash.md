@@ -4,6 +4,7 @@ title: Buhler's Philosophy Portal
 theme: white
 permalink: /philosophyportal-splash
 
+description: "![Pythagoras](/images/pythagoras-small.jpg) ## So you're taking philosophy? Awesome. ### This site is designed to help you to make the most out your…"
 --- 
 
 <section><!--begin slideshow-->

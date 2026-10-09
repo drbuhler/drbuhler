@@ -3,6 +3,7 @@ title: Good and Evil
 layout: slide
 theme: blood
 permalink: /slideshows/ethics3goodandevil/
+description: "Lecture slides by Dr. Dionysius Buhler: Good and Evil."
 ---
 
 <section><!--Intro slide begin-->

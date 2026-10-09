@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: league
 permalink: /slideshows/intro1syllabus/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section><!--Syllabus begin-->

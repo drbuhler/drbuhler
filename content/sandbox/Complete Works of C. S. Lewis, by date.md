@@ -4,6 +4,7 @@ permalink: /lewis/
 layout: single
 header: 
       image: https://redeeminggod.com/wp-content/uploads/2013/12/CS-Lewis.jpg
+description: "The list below supplies, in chronological order, all of C. S. Lewis’s books."
 ---
 
 The list below supplies, in chronological order, all of C. S. Lewis's books. 

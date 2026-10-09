@@ -2,6 +2,7 @@
 title: Non-Fiction
 layout: single
 permalink: /writings-non-fiction/
+description: "Review of Rage Against God by Peter Hitchins (in Examined Life)"
 ---
 
 ### Non-Fiction

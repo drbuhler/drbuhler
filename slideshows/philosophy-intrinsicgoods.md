@@ -3,6 +3,7 @@ title: Intrinsic Goods
 layout: slide
 theme: league
 permalink: /slideshows/philosophy-intrinsicgoods/
+description: "Lecture slides by Dr. Dionysius Buhler: Intrinsic Goods."
 ---
 
 <section><!--Syllabus begin-->

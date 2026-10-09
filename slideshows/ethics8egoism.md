@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Egoism"
 layout: slide
 theme: blood
 permalink: /slideshows/ethics8egoism/
+description: "Lecture slides by Dr. Dionysius Buhler: Egoism."
 ---
 
 <section><!--Intro slide begin-->

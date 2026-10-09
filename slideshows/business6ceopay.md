@@ -3,6 +3,7 @@ title: Capitalism
 layout: slide
 theme: sky
 permalink: /slideshows/business6ceopay/
+description: "Lecture slides by Dr. Dionysius Buhler: Capitalism."
 ---
 
 

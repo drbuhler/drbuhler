@@ -10,6 +10,7 @@ tags: []
 categories: [Misc]
 excerpt_separator: <!--more-->
 permalink: 
+description: "The list below supplies, in chronological order, all of C. S. Lewis’s books."
 ---
 
 ![header](https://redeeminggod.com/wp-content/uploads/2013/12/CS-Lewis.jpg)

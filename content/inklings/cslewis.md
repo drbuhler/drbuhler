@@ -1,9 +1,8 @@
 ---
 title: C. S. Lewis Resources
-layout: 
+layout: default
 permalink: 
-image: 
-    header: 
+description: "C. S. Lewis resources: a complete works list (also as a PDF and a spreadsheet) and links to free e-books by Lewis and the Inklings."
 ---
 
 

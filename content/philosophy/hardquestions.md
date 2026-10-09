@@ -5,6 +5,7 @@ author_profile: false
 sidebar:
   nav: philosophy
 permalink: /hardquestions/
+description: "\" Ask the Hard Questions! \": A list of resources from Uncle Keith and Aunt Lindsay"
 --- 
 
 

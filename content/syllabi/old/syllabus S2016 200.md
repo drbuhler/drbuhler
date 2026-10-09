@@ -2,6 +2,7 @@
 layout: philosophy
 title: Syllabus 200 S2016
 permalink: /syllabus-200-S2016
+description: "Course syllabus: Syllabus 200 S2016. Dr. Keith (Dionysius) Buhler."
 ---
 
 ### [Syllabus, Spring 2016](/pages-philosophy/syllabus-200-S2016.pdf)

@@ -3,6 +3,7 @@ title: Methods of Business Ethics
 layout: slide
 theme: blood
 permalink: /slideshows/business2methods3/
+description: "Lecture slides by Dr. Dionysius Buhler: Methods of Business Ethics."
 ---
 
 <section><!--begin splash-->

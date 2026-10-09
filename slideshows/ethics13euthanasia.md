@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Defense of Euthanasia"
 layout: slide
 theme: blood
 permalink: /slideshows/ethics13euthanasia/
+description: "Lecture slides by Dr. Dionysius Buhler: Defense of Euthanasia."
 ---
 
 <section data-background="/images/background-morality.svg"><!--Intro slide begin-->

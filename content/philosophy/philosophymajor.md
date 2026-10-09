@@ -7,6 +7,7 @@ header:
 author_profile: false
 sidebar: 
       nav: philosophy
+description: "Why Study Philosophy? — from the archive of Dr. Dionysius Buhler."
 ---
 
 #### [(pdf version)](/philosophymajor.pdf)

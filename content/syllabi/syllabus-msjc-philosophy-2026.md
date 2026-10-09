@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /msjc1/
-title: 
+title: "Syllabus msjc philosophy 2026"
 header: 
       image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
+description: "Course syllabus: Syllabus msjc philosophy 2026. Dr. Keith (Dionysius) Buhler."
 ---
 
 #### [PDF version of 2026 Syllabus (beta)](/)   

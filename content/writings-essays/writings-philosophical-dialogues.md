@@ -2,6 +2,7 @@
 title: Dialogues
 layout: single
 permalink: /writings-philosophy/
+description: "Yapha Poesis Ivinitus: A Short Myth of Language​ (short story)"
 ---
 
 ### Philosophical Dialogues

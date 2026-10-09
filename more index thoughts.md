@@ -1,3 +1,7 @@
+---
+title: "Draft homepage notes"
+description: "Draft notes for the drbuhler.com homepage: NOUS (National Orthodox United Schools) and Numinor capital management."
+---
 more index thoughts.md
 
 

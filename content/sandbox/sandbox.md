@@ -51,6 +51,7 @@ feature_row3:
     btn_label: "More"
     btn_class: "btn--inverse"
 
+description: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
 ---
 
 <br>

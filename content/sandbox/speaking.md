@@ -5,6 +5,7 @@ permalink: /speaking/
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 
+description: "Book Dr. Dionysius Buhler to speak at graduations, senior nights, men’s nights, Bible studies, Sunday school, and other events."
 ---
 
 Dr Buhler can bring inspiration to your event. 

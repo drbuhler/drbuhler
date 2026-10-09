@@ -2,6 +2,7 @@
 layout: default
 title: Investing
 permalink: /investing/
+description: "Numinor acquires and restores unique and beautiful properties across the U.S., deploying our own and investor capital in short- and long-term real assets."
 ---
 ## Numinor
 

@@ -2,6 +2,7 @@
 title:      Aristotle
 layout: slide
 permalink: /slideshows/single-aristotle-dan/
+description: "Lecture slides by Dr. Dionysius Buhler: Aristotle."
 ---
 
 

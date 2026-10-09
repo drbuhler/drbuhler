@@ -1,3 +1,7 @@
+---
+title: "Late work policy"
+description: "Course policy on due dates and late assignments for Dr. Keith Buhler's classes."
+---
 Assignments are due at the beginning of class unless otherwise stated. *Late work will not be accepted.*  Late assignments are inputted in the gradebook as a zero. 
 
 That said, any student may request an extension (of 1-7 days) on any assignment at any time. That request may be denied. In general, it is advised to work ahead, and plan carefully, to avoid turning assignments in late or requesting extensions. 

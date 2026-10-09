@@ -1,5 +1,6 @@
 ---
 title: Lateral Thinking Puzzles
+description: "Set up: A man died and went to Heaven. There were thousands of other people there. They were all naked and all looked as they did at the age of 21. He…"
 ---
 
 ## Easier

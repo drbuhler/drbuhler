@@ -5,6 +5,7 @@ author_profile: false
 sidebar:
   nav: philosophy
 permalink: /philosophy/
+description: "Most college students will take exactly one philosophy class. A bad professor (or TA!) can make philosophy seem boring or irrelevant. Then again, a bad…"
 --- 
 
 

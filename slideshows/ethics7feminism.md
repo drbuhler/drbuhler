@@ -3,6 +3,7 @@ title: Feminist Ethics Slideshow
 layout: slide
 theme: blood
 permalink: /slideshows/ethics7feminism/
+description: "Lecture slides by Dr. Dionysius Buhler: Feminist Ethics Slideshow."
 ---
 
 <section><!--Intro slide begin-->

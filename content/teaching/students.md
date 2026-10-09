@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 
+title: "Students"
 permalink: /students/
 header:
       image: 
 sidebar: 
       nav: 
+description: "What if I told you philosophy majors earn more than business majors?"
 --- 
 
 <br> 

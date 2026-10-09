@@ -1,6 +1,7 @@
 ---
 title: Nihilism
 layout: single
+description: "Eugene’s Proposed Outline for The Kingdom of Man and the Kingdom of God"
 ---
 
 [Editor's Preface](http://www.columbia.edu/cu/augustine/arch/nihilism.html#preface)

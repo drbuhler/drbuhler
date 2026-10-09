@@ -2,6 +2,7 @@
 layout: default
 title: Testimonials
 permalink: /testimonials/
+description: "What school founders, board chairs, and leaders say about working with Dr. Dionysius Buhler on starting and strengthening schools."
 ---
 ## Testimonials
 

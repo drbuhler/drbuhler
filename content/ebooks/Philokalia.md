@@ -2,6 +2,7 @@
 title: Philokalia
 permalink: /Philokalia
 layout: single
+description: "The Philokalia is a collection of texts written between the fourth and the fifteenth centuries by spiritual masters of the Orthodox Christian tradition.…"
 ---
 
 # Introduction to the Philokalia

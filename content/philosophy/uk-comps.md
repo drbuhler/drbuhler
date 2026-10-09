@@ -2,6 +2,7 @@
 layout: philosophy
 title: UK comps
 permalink: /comps
+description: "Please let me know if you can make a compendium of these readings."
 --- 
 
 ## Comprehensive Exams

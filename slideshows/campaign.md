@@ -3,6 +3,7 @@ title: Capital Campaign
 layout: slide
 theme: moon
 permalink: /slideshows/campaign/
+description: "Lecture slides by Dr. Dionysius Buhler: Capital Campaign."
 ---
 
 <section><!--Show begin-->

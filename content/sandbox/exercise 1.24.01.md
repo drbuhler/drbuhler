@@ -1,3 +1,7 @@
+---
+title: "Grammar exercise: The Grapes of Wrath"
+description: "A grammar exercise on prepositional phrases using the opening of Steinbeck's The Grapes of Wrath."
+---
 #TO THE RED COUNTRY and part of the gray country of Oklahoma, the last rains came gently, and they did not cut the scarred earth. 
 
 *Prepositional phrase and prepositional phrase of prepositional phrase, the adjective noun verbed adverbly, and pronoun did not verb the participle noun.*

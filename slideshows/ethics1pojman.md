@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: serif
 permalink: /slideshows/ethics1pojman/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section><!--Friday begin-->

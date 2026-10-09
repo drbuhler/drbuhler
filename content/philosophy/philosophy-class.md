@@ -7,6 +7,7 @@ sidebar:
       nav: philosophy
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
+description: "Philosophy is not about yelling, but arguing – that is, rationally justifying your positions and debunking falsehoods."
 --- 
 
 

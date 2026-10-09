@@ -3,6 +3,7 @@ title: Virtue
 layout: slide
 theme: night
 permalink: /slideshows/business4virtue/
+description: "Lecture slides by Dr. Dionysius Buhler: Virtue."
 ---
 
 <section><!--begin-->

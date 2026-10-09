@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Information"
 layout: slide
 theme: league
 permalink: /slideshows/business9information/
+description: "Lecture slides by Dr. Dionysius Buhler: Information."
 ---
 
 <section data-background="/images/background-lexington.svg" ><!--Intro slide begin-->

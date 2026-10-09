@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /syllabus251
 title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
+description: "Course syllabus: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus). Dr. Keith (Dionysius) Buhler."
 ---
 
 ### [Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)](/content/syllabi/old/syllabus251.pdf)

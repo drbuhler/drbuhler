@@ -1,8 +1,9 @@
 ---
-title: 
+title: "The Meaning of Life"
 layout: slide
 theme: league
 permalink: /slideshows/ethics9life/
+description: "Lecture slides by Dr. Dionysius Buhler: The Meaning of Life."
 ---
 
 <section data-background="/images/background-hindu.svg"><!--Intro slide begin-->

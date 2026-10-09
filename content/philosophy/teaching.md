@@ -6,6 +6,7 @@ sidebar:
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 permalink: /teaching/
+description: "Since 2007, I’ve helped thousands of students of all ages to learn and grow. My classroom culture is suffused with humor. Students explore big ideas by…"
 ---
 
 

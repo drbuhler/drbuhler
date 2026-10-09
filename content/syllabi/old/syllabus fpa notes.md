@@ -1,3 +1,7 @@
+---
+title: "Syllabus notes: other texts"
+description: "Supplementary readings provided online for an introductory philosophy course by Dr. Keith Buhler."
+---
 **Other texts provided online**$- [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)

@@ -2,6 +2,7 @@
 title: The Size of the State -- Hegel on Morality, Right, and Ethical Life
 permalink: /hegel/
 layout: single
+description: "\"…This naturally depends on the numbers concerned.\" –Hegel, Philosophy of Right , § 270."
 ---
 
 

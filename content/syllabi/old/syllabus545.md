@@ -2,6 +2,7 @@
 layout: philosophy
 permalink: /syllabus545
 title: 545 Philosophy of Religion Syllabus, Summer 2016
+description: "Course syllabus: 545 Philosophy of Religion Syllabus, Summer 2016. Dr. Keith (Dionysius) Buhler."
 ---
 
 #### [PDF version](/pages-philosophy/syllabus545.pdf)

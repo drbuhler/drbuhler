@@ -3,6 +3,7 @@ title: Virtue Ethics Deck
 layout: slide
 theme: blood
 permalink: /slideshows/ethics6virtue/
+description: "Lecture slides by Dr. Dionysius Buhler: Virtue Ethics Deck."
 ---
 
 <section><!--begin-->

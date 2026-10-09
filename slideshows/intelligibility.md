@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: blood
 permalink: /slideshows/intelligibility/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section data-background=""><!--Day 1 begin-->

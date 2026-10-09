@@ -3,6 +3,7 @@ title: Introduction
 layout: slide
 theme: league
 permalink: /slideshows/intro2logic/
+description: "Lecture slides by Dr. Dionysius Buhler: Introduction."
 ---
 
 <section data-background="/images/tree-of-science.png"><!--Day 1 begin-->

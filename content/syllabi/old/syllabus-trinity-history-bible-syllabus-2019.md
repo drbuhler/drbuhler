@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /history/
-title: 
+title: "Syllabus trinity history bible syllabus 2019"
 header: 
       image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
+description: "Other than a three-ring-binder, the required texts are provided by Trinity and the teacher:"
 ---
 
 #### [PDF version of 2019-20 Syllabus](/content/syllabi/syllabus-trinity-history-bible-2018.pdf)   

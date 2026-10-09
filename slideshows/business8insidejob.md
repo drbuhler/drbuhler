@@ -4,6 +4,7 @@ layout: slide
 theme: simple
 
 permalink: /slideshows/business8insidejob/
+description: "Lecture slides by Dr. Dionysius Buhler: Inside Job (Film)."
 ---
 
 <section>

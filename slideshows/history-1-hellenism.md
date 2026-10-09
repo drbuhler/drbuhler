@@ -3,6 +3,7 @@ title: The Hellenistic Kingdoms
 layout: slide
 theme: black
 permalink: /slideshows/history-1-hellenism/
+description: "Lecture slides by Dr. Dionysius Buhler: The Hellenistic Kingdoms."
 ---
 
 

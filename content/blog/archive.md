@@ -4,6 +4,7 @@ title:  Welcome
 permalink: /archive/
 header:
   image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+description: "Welcome — from the archive of Dr. Dionysius Buhler."
 ---
 
 <div class="container docs-container">

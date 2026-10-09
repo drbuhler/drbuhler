@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /writing2017/
-title: 
+title: "Pre rhetoric syllabus trinity 2017"
 header: 
       image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
+description: "This course will continue practicing Trinity’s unique Progymnasmata curriculum. Based off the Roman rhetorician Apthonius’ pedagogy, the Progymnasmata…"
 ---
 
 

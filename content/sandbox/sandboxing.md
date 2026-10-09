@@ -12,6 +12,7 @@ author_profile: false
 share: true
 excerpt_separator: <!--more-->
 
+description: "If you want to create, you have to engage in low-risk experiments."
 ---
 
 If you want to innovate, you have to play. 

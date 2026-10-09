@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Critique of Abortion"
 layout: slide
 theme: blood
 permalink: /slideshows/ethics12abortion/
+description: "Lecture slides by Dr. Dionysius Buhler: Critique of Abortion."
 ---
 
 <section data-background="/images/background-morality.svg"> <!--Intro slide begin-->

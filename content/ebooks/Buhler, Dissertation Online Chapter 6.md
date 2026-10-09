@@ -1,7 +1,8 @@
 ---
-title: Buhler, Becoming What You Are
+title: "Becoming What You Are — Chapter 6: Natural Reasoning"
 permalink: /dissertation6
 layout: single
+description: "Chapter 6: Natural Reasoning of Becoming What You Are: Virtue and Practical Wisdom as Natural Ends, the doctoral dissertation of Keith Buhler (University of Kentucky)."
 ---
 
 1. [Introduction](/dissertation0)

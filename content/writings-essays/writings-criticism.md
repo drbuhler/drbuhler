@@ -2,6 +2,7 @@
 title: Criticism
 layout: single
 permalink: /writings-criticism/
+description: "Film and Music Criticism Andrei Tarkovsky’s Ivan’s Childhood (from Examined Life) Paul Simon’s Graceland (from Examined Life)"
 ---
 
 ### Film and Music Criticism

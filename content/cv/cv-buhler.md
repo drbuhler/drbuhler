@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 
+title: "Curriculum Vitae"
 permalink: /cv/
 header:
       image: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1680_front.jpg
 sidebar: 
       nav: 
+description: "Curriculum vitae of Keith (Dionysius) Buhler, Ph.D. in Philosophy (University of Kentucky): education, teaching, publications, and service."
 --- 
 
 ### Curriculum Vitae (2026)

@@ -4,6 +4,7 @@ title: What is Classical Education?
 permalink: /classical-education/
 header:
       image: https://upload.wikimedia.org/wikipedia/commons/d/d5/1_Alexander_Nevski_Cathedral%2C_Sofia%2C_Bulgaria%2C_2017.jpg
+description: "\"The greatest service we can do to education today is to teach fewer subjects. ― C.S. Lewis, Surprised by Joy"
 ---
 
 >"The greatest service we can do to education today is to teach fewer subjects.  

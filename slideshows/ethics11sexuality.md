@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Sex and Marriage"
 layout: slide
 theme: league
 permalink: /slideshows/ethics11sexuality/
+description: "Lecture slides by Dr. Dionysius Buhler: Sex and Marriage."
 ---
 
 <section><!--Intro slide begin-->

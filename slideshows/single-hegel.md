@@ -3,6 +3,7 @@ title: Hegel
 layout: slide
 theme: league
 permalink: /slideshows/single-hegel/
+description: "Lecture slides by Dr. Dionysius Buhler: Hegel."
 ---
 
 <section><!--Syllabus begin-->

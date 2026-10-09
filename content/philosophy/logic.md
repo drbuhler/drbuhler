@@ -6,6 +6,7 @@ permalink: /logic
 author_profile: false
 sidebar: 
       nav: philosophy
+description: "Logic 101 — from the archive of Dr. Dionysius Buhler."
 ---
 
 #### [(pdf version)](/pages-philosophy/logic.pdf)
@@ -20,7 +21,7 @@ http://www.keithbuhler.com
 *NB: This presentation is a mash-up of original material, and material from Peter Kreeft and others. Sources are noted at the end.*
 
 
-<img src="https://i.imgflip.com/15sr6z.jpg">
+<img src="https://i.imgflip.com/15sr6z.jpg" alt="Meme: Queen Elizabeth aiming a rifle, captioned &quot;The queen has a rifle. Your argument is invalid&quot;">
 
 {% include toc %}
 
@@ -69,7 +70,7 @@ must necessarily follow from the premises, so that if 'the premises are true, th
 
 ## Section 2: Logic 101, by Keith Buhler
 
-<img src="https://s-media-cache-ak0.pinimg.com/564x/4e/16/4d/4e164d6124d71a0dccb8606514dffaeb.jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/564x/4e/16/4d/4e164d6124d71a0dccb8606514dffaeb.jpg" alt="Philosoraptor meme: &quot;If I download a movie in Jamaica, am I a pirate of the Caribbean?&quot;">
 
 The first thing and most fundamental thing to understand about logic is the structure of proofs. What are the moving parts, the heart and soul of a proof? The answer? *Premises and a conclusion.*
 
@@ -167,7 +168,7 @@ Therefore not X.’               So a global nuclear war has not occurred.
 
 The terms are unclear. A premise is false. The conclusion is assumed in the premises. Something has gone wrong.
 
-<img src="https://thechive.files.wordpress.com/2013/05/argument-is-invalid-meme-36.jpg?quality=85&strip=info&w=500">
+<img src="https://thechive.files.wordpress.com/2013/05/argument-is-invalid-meme-36.jpg?quality=85&strip=info&w=500" alt="&quot;Your argument is invalid&quot; meme">
 
 
 There are about 216 different informal fallacies. We can categorize them into about four major groups. Fallacies of Relevance, Fallacies of Presumption, and Fallacies of Ambiguity, and Fallacies of Faulty Inference.
@@ -209,7 +210,7 @@ There are about 216 different informal fallacies. We can categorize them into ab
 There are many other fallacies. But begin to recognize and avoid these. For a larger list of awesome fallacies, read [here.](http://www.iep.utm.edu/fallacy/#H6)
 
 
-<img src="http://i1.kym-cdn.com/photos/images/facebook/000/002/763/invalid.jpg">
+<img src="http://i1.kym-cdn.com/photos/images/facebook/000/002/763/invalid.jpg" alt="&quot;Your argument is invalid&quot; meme">
 
 ## Section 4: Final points about logic and language
 

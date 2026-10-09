@@ -1,8 +1,9 @@
 ---
-title: 
+title: "Organizational Integrity"
 layout: slide
 theme: league
 permalink: /slideshows/business14integrity/
+description: "Lecture slides by Dr. Dionysius Buhler: Organizational Integrity."
 ---
 
 <section data-background="/images/background-lexington.svg"><!--Intro slide begin-->
