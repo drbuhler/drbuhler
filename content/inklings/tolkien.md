@@ -104,7 +104,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 
 3. Williams
     - [Charles Williams: The Third Inkling](http://amzn.to/1Xi602S), by Grevel Lindop
-    - A b[rief biography from Williams Society](http://www.charleswilliamssociety.org.uk/about/)
+    - A [brief biography from Williams Society](http://www.charleswilliamssociety.org.uk/about/)
     - A brief biography by [Sorena Wiggins.](https://theoddestinkling.wordpress.com/2013/06/05/intro/)
 
 4. Barfield
@@ -115,7 +115,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
   
 
 - [The Oxford Inklings](http://amzn.to/1OQVFFD)
--  [CS L ewis and his Circle](http://amzn.to/1OQW2Qv)
+-  [C.S. Lewis and his Circle](http://amzn.to/1OQW2Qv)
 - (A [Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/))
 
 ### INKLINGS SOCIETIES
@@ -154,7 +154,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 ### MAJOR INFLUENCES ON INKLINGS
 
 - George MacDonald, the ([Father of Inklings](http://fatheroftheinklings.com/))
-- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)
+- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibliography)](http://www.gkc.org.uk/gkc/books/bib.html)
 - Plato
 - Dante
 - Norse Mythology

@@ -46,9 +46,9 @@ The major Inklings are:
 ### COMPLETE WORKS LISTS
 
 1. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)
-2. [The Complete Works of J.R.R. Tolkein](http://keithbuhler.github.io/pending)
+2. The Complete Works of J.R.R. Tolkein
 3. [The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)
-4. [The Complete works of Owen Barfield](http://davidlavery.net/barfield/)
+4. The Complete works of Owen Barfield
 
 ### PUBLIC DOMAIN BOOKS
 
@@ -57,23 +57,22 @@ Lewis
 
 - [Spirits in Bondage (poetry)](http://www.anglicanlibrary.org/lewis/spirits/)
 - [Canadian Public Domain books](http://www.gutenberg.ca/) (do not download in U.S. -- check your local laws!)
-- [Perelandra](http://novelhot.net/perelandra/-chapter-five-136410.html)
 
 Tolkien
 
 Williams
 
-- [Charles Williams, War in Heaven](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
-- [Charles Williams, Many Dimensions](https://drive.google.com/file/d/0B0CYQDZ8AWu8dDF1TUdsUDVMa28/edit?usp=sharing)
-- [Charles Williams, The Place of the Lion](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
-- [Charles Williams, Greater Trumps](https://drive.google.com/file/d/0B0CYQDZ8AWu8Mm5xVDh5QVc1UXM/edit?usp=sharing)
-- [Charles Williams, Shadows of Ecstasy](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFJTNjdoa1RsQU0/edit?usp=sharing)
-- [Charles Williams, Descent Into Hell](https://drive.google.com/file/d/0B0CYQDZ8AWu8cnYwclpmMXhoaVk/edit?usp=sharing)
-- [Charles Williams, All Hallow’s Eve](https://drive.google.com/file/d/0B0CYQDZ8AWu8RmdUQ1I2RGNZb3M/edit?usp=sharing)
+- Charles Williams, War in Heaven
+- Charles Williams, Many Dimensions
+- Charles Williams, The Place of the Lion
+- Charles Williams, Greater Trumps
+- Charles Williams, Shadows of Ecstasy
+- Charles Williams, Descent Into Hell
+- Charles Williams, All Hallow’s Eve
 
 Owen Barfield
 
-*[Pending](http://keithbuhler.github.io/inklings)
+*Pending
 
 C.S. Lewis said, of Williams’s Arthurian poems:
 
@@ -106,7 +105,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 
 3. Williams
     - [Charles Williams: The Third Inkling](http://amzn.to/1Xi602S), by Grevel Lindop
-    - A b[rief biography from Williams Society](http://www.charleswilliamssociety.org.uk/about/)
+    - A [brief biography from Williams Society](http://www.charleswilliamssociety.org.uk/about/)
     - A brief biography by [Sorena Wiggins.](https://theoddestinkling.wordpress.com/2013/06/05/intro/)
 
 4. Barfield
@@ -117,7 +116,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
   
 
 - [The Oxford Inklings](http://amzn.to/1OQVFFD)
--  [CS L ewis and his Circle](http://amzn.to/1OQW2Qv)
+-  [C.S. Lewis and his Circle](http://amzn.to/1OQW2Qv)
 - (A [Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/))
 
 ### INKLINGS SOCIETIES
@@ -143,7 +142,6 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 ### CURATED WEB RESOURCES
 
 1. Lewis
-    - [Narnia.com](https://www.narnia.com/us)
     - [Alt-Lewis](http://www.rilstone.talktalk.net/cslfaq.htm#_Toc5085842)
 
 2. Tolkien
@@ -156,7 +154,7 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 ### MAJOR INFLUENCES ON INKLINGS
 
 - George MacDonald, the ([Father of Inklings](http://fatheroftheinklings.com/))
-- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)
+- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibliography)](http://www.gkc.org.uk/gkc/books/bib.html)
 - Plato
 - Dante
 - Norse Mythology
@@ -192,7 +190,6 @@ _They seem to me, both for the soaring and gorgeous novelty of their technique a
 There are lots of good materials on the Inklings. These are a few of my favorites:
 
 - [Keith Buhler’s lecture on Dorothy Sayers’ _Gaudy Night_ and the vice of “Vainglory”](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0)
-- [A C. S. Lewis’ Influence Survey - A survey I designed for fun. Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
 
 ### QUOTES
 

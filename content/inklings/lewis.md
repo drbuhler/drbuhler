@@ -59,7 +59,7 @@ Tolkien
 ### MAJOR INFLUENCES ON INKLINGS
 
 - George MacDonald, the ([Father of Inklings](http://fatheroftheinklings.com/))
-- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)
+- G.K. Chesterton – [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibliography)](http://www.gkc.org.uk/gkc/books/bib.html)
 - Plato
 - Dante
 - Norse Mythology

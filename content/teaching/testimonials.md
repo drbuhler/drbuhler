@@ -28,7 +28,7 @@ description: "What employers, colleagues, and students say about Dr. Dionysius (
 
 - "A wonderful and effective mentor" -- Bettie Torres
 
-- "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
+- "Gives me great hope for our next generation." -- Cinda Tribble, Institute for Excellence in Writing
 
 - Thank you for a great semester, you are one of my favorite professors I have had since I have been in college. I really enjoyed your class and the way you conducted it. I learned a lot this past semester and I thought your teaching style was very unique and highly effective.
 
