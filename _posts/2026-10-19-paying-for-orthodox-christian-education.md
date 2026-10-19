@@ -131,7 +131,7 @@ Orthodox Christians can start and maintain any one of four types of schools:
 
 This budget breaks down into teacher salaries (75%), admin and expenses (10%), and rent, mortgage, or utilities (15%).
 
-The reader can further divide those costs into a per classroom basis based on an 22 student classroom, a percentage of salary (say, 65,000), and percentages for everything else such as administration, rent, utilities, some auxiliary educational services, etc.
+The reader can further divide those costs into a per classroom basis based on a 22-student classroom, a percentage of salary (say, $65,000), and percentages for everything else such as administration, rent, utilities, some auxiliary educational services, etc.
 
 ### 2. Fancy Private School Academy
 
