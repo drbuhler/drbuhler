@@ -61,7 +61,7 @@ What is school? By its very nature, education is a transformative process in a g
 
 A student spends roughly 12,000 hours in their school over thirteen years. That type of formation is indelible.
 
-Is there any way to “speed up” time? No. Soon, a child will be able to learn any “subject” at his own pace with AI robots, for the low low cost of subsidized tokens. But this will not be true education, and we all know that the ‘free, efficient, practical,’ path leaves out the most essential things: history, poetry, innovation, humanity, and theology.
+Is there any way to “speed up” time? No. Soon, a child will be able to learn any “subject” at his own pace with AI robots, for the low low cost of subsidized tokens. But this will not be true education, and we all know that the “free, efficient, practical,” path leaves out the most essential things: history, poetry, innovation, humanity, and theology.
 
 To make education more efficient and cheap is also to make it less like education. It's sort of like saying I can make hamburgers and pancakes cheaper at my restaurant if I make them out of plastic. Yeah, they're a lot cheaper, but they're also a lot less like food.
 
