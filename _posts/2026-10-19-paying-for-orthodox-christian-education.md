@@ -6,7 +6,6 @@ category: articles
 tags: [education, orthodoxy, schools]
 comments: false
 ---
-*Adapted from my YouTube talk: [https://www.youtube.com/watch?v=nmTYUNoMQKQ](https://www.youtube.com/watch?v=nmTYUNoMQKQ)*
 
 Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy upon us and save us!
 
@@ -24,18 +23,22 @@ The only other option is that we can partner up with local schools (public schoo
 
 In this article, I argue that (1) education is necessarily expensive, impractical, and inefficient — and that’s a good thing. I explain (2) the true cost of each solution, and (3) make suggestions for how to pay for new, existing, high quality Orthodox schools and homeschool coops, with (4) some creative ideas for how to advance education at a broader scale.
 
-- (1) School is impractical, inefficient, and expensive — How much do schools cost?
-- Is there any way to reduce the cost?
-- (2) The true cost —  Why is it worth it?
-- (3) Four Models
-- 1\. Plain Jane Christian Co-Opy
-- 2\. Fancy Private School Academy
-- 3\. Bootstrap Homeschool Academy
-- 4\. Patron-Blessed Academy
-- (4) How we fund Patron-Blessed schools
-- APPENDIX: A new tool: the federal scholarship tax credit
+<nav class="toc" markdown="1">
 
-## (1) School is impractical, inefficient, and expensive — How much do schools cost?
+- [(1) School is impractical, inefficient, and expensive: How much do schools cost?](#school-is-expensive)
+    - [Is there any way to reduce the cost?](#reduce-the-cost)
+- [(2) The true cost: Why is it worth it?](#the-true-cost)
+- [(3) Four Models](#four-models)
+    1. [Plain Jane Christian Co-Opy](#plain-jane)
+    2. [Fancy Private School Academy](#fancy-private-school)
+    3. [Bootstrap Homeschool Academy](#bootstrap-homeschool)
+    4. [Patron-Blessed Academy](#patron-blessed)
+- [(4) How we fund Patron-Blessed schools](#how-we-fund)
+- [APPENDIX: A new tool: the federal scholarship tax credit](#appendix)
+
+</nav>
+
+## (1) School is impractical, inefficient, and expensive — How much do schools cost? {#school-is-expensive}
 
 There is no such thing as cheap education.
 
@@ -50,7 +53,7 @@ Ballpark figures (early 2020s dollars, illustrative) for full 5-day schools rang
 
 Models range from five-day community schools (often 60–80 students) to university-model and hybrid parochial programs to nearly free homeschool co-ops.
 
-### Is there any way to reduce the cost?
+### Is there any way to reduce the cost? {#reduce-the-cost}
 
 No. School is necessarily expensive and education is necessarily inefficient. The cost and inefficiency is a feature not a bug.
 
@@ -58,7 +61,7 @@ What is school? By its very nature, education is a transformative process in a g
 
 A student spends roughly 12,000 hours in their school over thirteen years. That type of formation is indelible.
 
-Is there any way to “speed up” time? No. Soon, a child will be able to learn any “subject” at his own pace with AI robots, for the low low cost of subsidized tokens. But this will not be true education, and we all know that the ‘free, efficient, practical,’ path leaves out the most essential things: history, poetry, innovation, humanity, and theology.
+Is there any way to “speed up” time? No. Soon, a child will be able to learn any “subject” at his own pace with AI robots, for the low low cost of subsidized tokens. But this will not be true education, and we all know that the “free, efficient, practical,” path leaves out the most essential things: history, poetry, innovation, humanity, and theology.
 
 To make education more efficient and cheap is also to make it less like education. It's sort of like saying I can make hamburgers and pancakes cheaper at my restaurant if I make them out of plastic. Yeah, they're a lot cheaper, but they're also a lot less like food.
 
@@ -76,7 +79,7 @@ The answer is plain once you reflect on it: The only education worth doing in a 
 
 The very same fact is precisely why education is precious. A fork is useful; fine china you rarely use, or art with no "function," is what we prize. Astronomy and music are not practical—and that is why we love them. They open the secrets of the cosmos. Knowledge for its own sake is the opposite of career training. That is the point of liberal education.
 
-## (2) The true cost — Why is it worth it?
+## (2) The true cost — Why is it worth it? {#the-true-cost}
 
 School is worth it because it can produce *fully formed* or ill-formed people.
 
@@ -108,7 +111,7 @@ The final option may not be perfect, but it is robust and family-centered, it is
 
 So what are Orthodox Christians to do?
 
-## (3) Four Models
+## (3) Four Models {#four-models}
 
 For a couple of years now, as we have founded and run a church school, one question has kept percolating: **how do we get more of these?** Not one heroic parish academy that limps along on bake sales—ten or fifty Orthodox Christian schools in the next few decades. That means talking frankly about money. Vision, motivation, and capital: the mind, the money, and the muscle.
 
@@ -116,7 +119,7 @@ Private schools have to charge tuition. This doesn't mean they have to be snooty
 
 Orthodox Christians can start and maintain any one of four types of schools:
 
-### 1. Plain Jane Christian Co-Opy
+### 1. Plain Jane Christian Co-Opy {#plain-jane}
 
 **Focus:** Academics and Christian formation. Culturally strong, tight-knit, mostly local, and many tied to a parish—but always fundraising because there is little margin. Teachers serve largely for love of the work and the children.
 
@@ -133,7 +136,7 @@ This budget breaks down into teacher salaries (75%), admin and expenses (10%), a
 
 The reader can further divide those costs into a per classroom basis based on a 22-student classroom, a percentage of salary (say, $65,000), and percentages for everything else such as administration, rent, utilities, some auxiliary educational services, etc.
 
-### 2. Fancy Private School Academy
+### 2. Fancy Private School Academy {#fancy-private-school}
 
 - 200 students, $13,000 sticker → $2.6M nominal budget
 - $800,000 scholarships → $1.8M actually collected
@@ -148,7 +151,7 @@ The reader can further divide those costs into a per classroom basis based on a 
 
 Teacher pay remains market wage (~$65,000+), but administrative costs increase to support admissions, athletics, fundraising, and counseling. That classroom also has an easier time funding extracurriculars and services. Each classroom may be able to stay in budget and bank a few thousand towards savings and a self-funded endowment.
 
-### 3. Bootstrap Homeschool Academy
+### 3. Bootstrap Homeschool Academy {#bootstrap-homeschool}
 
 - 50 students at a hard ceiling, $5,000 sticker → $250,000 nominal
 - No scholarships ("if you can't pay, you can't come") — many arrive at the no scholarship policy after scholarship attempts nearly bankrupted them!
@@ -163,7 +166,7 @@ Teacher pay remains market wage (~$65,000+), but administrative costs increase t
 
 Based on a smaller 12-student classroom (~$72,000 budget): teacher compensation is ~$33,000 without benefits/PTO (often an enrolled parent), single-principal or administrator (~$17,000), and minimal facility/utility expenses ($12,000).
 
-### 4. Patron-Blessed Academy
+### 4. Patron-Blessed Academy {#patron-blessed}
 
 - 200 students, $9,000 tuition → $1.8M nominal
 - $400,000 scholarships (a little under 25%) → $1.4M collected
@@ -181,7 +184,7 @@ Based on a smaller 12-student classroom (~$72,000 budget): teacher compensation 
 
 All four of these models can work and are working in our 70+ Orthodox Christian schools across the country. But let’s explore the final model to see how patronage can make private education more accessible to Orthodox Christians.
 
-## (4) How we fund Patron-Blessed schools
+## (4) How we fund Patron-Blessed schools {#how-we-fund}
 
 We should pursue several tracks and match each parish's situation.
 
@@ -195,13 +198,13 @@ We should pursue several tracks and match each parish's situation.
 
 **5. A pay-it-forward cycle**. Onboarding new schools is not "pick a curriculum and open Monday." At St. Andrew our curriculum is eclectic; the harder work is talent, vision, board training, and capital—typically a 1–2 year pipeline. Then imagine a 3–5 year support window (~$200,000/year) while the school builds its own mini-endowment and enrollment. Once sustainable, schools pledge about 1% back into the foundation so smaller or out-of-the-way parishes can keep receiving help. Pay it forward.
 
-## Conclusion
+## Conclusion {#conclusion}
 
 I pray that God blesses Saint Andrew Academy in CA, Mount Tabor in MO, St. Constantine in TX, St. John Chrysostom Academy in PA, Christ the Savior Academy in KS, and every school putting faith and energy on the line—whether or not they know the work will last forever. May He help us advance Orthodox Christian education in the decades ahead.
 
 Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy upon us and save us.
 
-## APPENDIX: A new tool: the federal scholarship tax credit
+## APPENDIX: A new tool: the federal scholarship tax credit {#appendix}
 
 [Check to see if your state is participating!](https://www.irs.gov/government-entities/federal-state-local-governments/federal-scholarship-tax-credit-fstc)
 
@@ -212,3 +215,5 @@ This is a wonderful sort of redistribution mechanism that can get our public dol
 However, even if your school in your state can't benefit, like my school in California, if every parent that is paying taxes out of our 40 or 60 families is donating, let's say, $2,000, then that is $80,000 just from one parish!
 
 Some of it might go back to us in the future, but for now it's going to go to schools in Pennsylvania, Florida, Ohio, and so on. The organization to watch here is the Orthodox Christian Education Network: [https://www.orthodoxednetwork.org/](https://www.orthodoxednetwork.org/)
+
+*Adapted from my YouTube talk: [https://www.youtube.com/watch?v=nmTYUNoMQKQ](https://www.youtube.com/watch?v=nmTYUNoMQKQ)*
