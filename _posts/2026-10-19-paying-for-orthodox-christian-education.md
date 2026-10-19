@@ -24,7 +24,7 @@ The only other option is that we can partner up with local schools (public schoo
 
 In this article, I argue that (1) education is necessarily expensive, impractical, and inefficient — and that’s a good thing. I explain (2) the true cost of each solution, and (3) make suggestions for how to pay for new, existing, high quality Orthodox schools and homeschool coops, with (4) some creative ideas for how to advance education at a broader scale.
 
-- (1)  School is impractical, inefficient, and expensive — How much do schools cost?
+- (1) School is impractical, inefficient, and expensive — How much do schools cost?
 - Is there any way to reduce the cost?
 - (2) The true cost —  Why is it worth it?
 - (3) Four Models
@@ -96,13 +96,13 @@ So what is the true cost of each alternative?
     - **Time —** Full time educator Mom (or full-time educator Dad) is giving up the economic value of what could be a full-time salary — often $50,000+ (well over what a private school would cost)
     - **Effort —** Mom must be good at teaching a variety of subjects, must research constantly, must buy curriculum, create social and athletic avenues for her children, and she spends well over a typical 8 hour day caring for her children (often multiple ages!)
 - Public school is expensive in taxes and in lost opportunities
-    - **Lost opportunity — There is no "free" public school! Until school choice or a voucher system spreads, public school is the least econonimcally expensive. But it’s also expensive - tax money directed toward an anti-religious formation, with no attention paid to avoiding folly and vice. If that is free, I do not know what could be more expensive.**
+    - **Lost opportunity — There is no "free" public school! Until school choice or a voucher system spreads, public school is the least economically expensive. But it’s also expensive - tax money directed toward an anti-religious formation, with no attention paid to avoiding folly and vice. If that is free, I do not know what could be more expensive.**
     - If you think children can spend 12,000+ hours away from God—around emptiness, smartphones, and secular mentors—and still be formed as Orthodox Christians by an hour and a half of Divine Liturgy on Sunday, you are kidding yourself. Education passes the soul of one generation to the next. It forms lifelong friendships. It gives children non-parental mentors who see past our parental blind spots. It is natural to parish life, evangelistic toward visitors, and aimed at eternal success—sanctity—for teachers and students alike
 - Private-school is expensive in dollars and effort — salaries must be paid for good teachers, plus there are costs for facility, supplies, and services. Revenue is tuition, donations, and tax-vouchers from the state.
 
 So none of these are free or easy.
 
-Paying alot  is inevitable: through tax dollars; through charter school funds, which are tax dollars; through your own income, which is private-school tuition dollars; or through patronage, the scholarships of other families who pool their funds into schools that have the trust of a wonderful board of directors and a wonderful headmaster to organize an education.
+Paying a lot is inevitable: through tax dollars; through charter school funds, which are tax dollars; through your own income, which is private-school tuition dollars; or through patronage, the scholarships of other families who pool their funds into schools that have the trust of a wonderful board of directors and a wonderful headmaster to organize an education.
 
 The final option may not be perfect, but it is robust and family-centered, it is truly Christian, and it allows for the formation of the souls of Orthodox Christians.
 
@@ -126,19 +126,19 @@ Orthodox Christians can start and maintain any one of four types of schools:
 
 - 100 students, $12,500 sticker tuition → $1.2M nominal budget
 - ~15% scholarship fund → ~$1M tuition collected
-- Annual gala/banquet ~$100K; no endowment
+- Annual gala/banquet ~$100,000; no endowment
 - Actual budget ~$1.1M → ~$11,000 spent per student (after deducting scholarships, adding fundraising, dividing by total number of students)
 
 This budget breaks down into teacher salaries (75%), admin and expenses (10%), and rent, mortgage, or utilities (15%).
 
-The reader can further divide those costs into a per classroom basis based on an 18 student classroom, X salary, and Y for everything else such as administration, rent, utilities, some auxiliary educational services, etc.
+The reader can further divide those costs into a per classroom basis based on an 22 student classroom, a percentage of salary (say, 65,000), and percentages for everything else such as administration, rent, utilities, some auxiliary educational services, etc.
 
 ### 2. Fancy Private School Academy
 
 - 200 students, $13,000 sticker → $2.6M nominal budget
-- $800K scholarships → $1.8M actually collected
-- Fundraising ~$200K/year; no endowment
-- Actual budget ~$2M → $10,000 per student ($180K per 18-student classroom)
+- $800,000 scholarships → $1.8M actually collected
+- Fundraising ~$200,000/year; no endowment
+- Actual budget ~$2M → $10,000 per student ($180,000 per 18-student classroom)
 
 **Focus:** Comprehensive prep experience with robust administrative infrastructure, athletics, theater, field trips, arts, and aftercare programs.
 
@@ -146,14 +146,14 @@ The reader can further divide those costs into a per classroom basis based on an
 
 **Financial Model Overview:**
 
-Teacher pay remains market wage (~$65K), but administrative costs increase to support admissions, athletics, fundraising, and counseling. Roughly $85K/classroom funds extracurriculars and services. The school can bank $5K per classroom toward an endowment.
+Teacher pay remains market wage (~$65,000+), but administrative costs increase to support admissions, athletics, fundraising, and counseling. That classroom also has an easier time funding extracurriculars and services. Each classroom may be able to stay in budget and bank a few thousand towards savings and a self-funded endowment.
 
 ### 3. Bootstrap Homeschool Academy
 
-- 50 students at a hard ceiling, $5,000 sticker → $250K nominal
+- 50 students at a hard ceiling, $5,000 sticker → $250,000 nominal
 - No scholarships ("if you can't pay, you can't come") — many arrive at the no scholarship policy after scholarship attempts nearly bankrupted them!
-- Fundraising ~$50K; no endowment
-- Total ~$300K → ~$6,000 per student
+- Fundraising ~$50,000; no endowment
+- Total ~$300,000 → ~$6,000 per student
 
 **Focus:** Autonomy-loving, highly local community with low temptation toward worldliness.
 
@@ -161,23 +161,23 @@ Teacher pay remains market wage (~$65K), but administrative costs increase to su
 
 **Financial Model Overview:**
 
-Based on a smaller 12-student classroom (~$72K budget): teacher compensation is ~$33K without benefits/PTO (often an enrolled parent), single-principal admin (~$17K), and minimal facility/utility expenses ($12K).
+Based on a smaller 12-student classroom (~$72,000 budget): teacher compensation is ~$33,000 without benefits/PTO (often an enrolled parent), single-principal or administrator (~$17,000), and minimal facility/utility expenses ($12,000).
 
 ### 4. Patron-Blessed Academy
 
 - 200 students, $9,000 tuition → $1.8M nominal
-- $400K scholarships (a little under 25%) → $1.4M collected
+- $400,000 scholarships (a little under 25%) → $1.4M collected
 - Ordinary annual fundraising (gala, fun run, car wash)
-- New line: $200K endowment income = 5% of a $4M endowment
-- Total budget ~$1.7M — spend per student approaches Fancy's $10K without the $13K sticker price
+- New line: $200,000 endowment income = 5% of a $4M endowment
+- Total budget ~$1.7M — spend per student approaches Fancy's $10,000 without the $13,000 sticker price
 
 **Focus:** Academics, Christian formation, and socioeconomic diversity funded through structural scholarships and endowment income.
 
-**Strengths & Costs:** Scalable, teacher stability through full benefits, accessible through dedicated scholarship pools, and sustainable fundraising that acts as an growth option rather than basic survival.
+**Strengths & Costs:** Scalable, teacher stability through full benefits, accessible through dedicated scholarship pools, and sustainable fundraising that acts as a growth option rather than basic survival.
 
 **Financial Model Overview:**
 
-1. Per 18-student classroom (~$150K): long-tenured teachers with benefits, sufficient administration for specials and sports, and ~$58K remaining for attractive core services.
+1. Per 18-student classroom (~$150,000): long-tenured teachers with benefits, sufficient administration for specials and sports, and ~$58,000 remaining for attractive core services.
 
 All four of these models can work and are working in our 70+ Orthodox Christian schools across the country. But let’s explore the final model to see how patronage can make private education more accessible to Orthodox Christians.
 
@@ -185,15 +185,15 @@ All four of these models can work and are working in our 70+ Orthodox Christian 
 
 We should pursue several tracks and match each parish's situation.
 
-**1. Parish / school endowments.** Target on the order of $2M per school. Do not launch until the money is deposited into accounts. One article on founding parish schools argues: do not start until 5% dividend income covers half the headmaster's or first teacher's salary—e.g. half of $40K → $400K endowment; half of $80K → $800K; half of $120K for a seasoned principal → $1.2M. If your parish is committed, start setting money aside now. If you already hold an educational endowment for Sunday school alone, consider aiming it at a real parochial school. Free training pipelines (e.g. Herzog Foundation programs—named here as an example of available formation, not an endorsement) can form board, headmaster, and teachers while the capital accumulates.
+**1. Parish / school endowments.** Target on the order of $2M per school. Do not launch until the money is deposited into accounts. One article on founding parish schools argues: do not start until 5% dividend income covers half the headmaster's or first teacher's salary—e.g. half of $40,000 → $400,000 endowment; half of $80,000 → $800,000; half of $120,000 for a seasoned principal → $1.2M. If your parish is committed, start setting money aside now. If you already hold an educational endowment for Sunday school alone, consider aiming it at a real parochial school. Free training pipelines (e.g. Herzog Foundation programs—named here as an example of available formation, not an endorsement) can form board, headmaster, and teachers while the capital accumulates.
 
-**2. A pooled Orthodox educational foundation.** Private donors put capital into a fund that aims for ~$2M per school in the network. Five schools need ~$10M; fifty schools need ~$100M. I have been affectionately calling such a network the National Orthodox Unified Schools (NOUS)). National in scope sounds impossible until you remember we are talking about the whole American Orthodox household.
+**2. A pooled Orthodox educational foundation.** Private donors put capital into a fund that aims for ~$2M per school in the network. Five schools need ~$10M; fifty schools need ~$100M. I have been affectionately calling such a network the National Orthodox Unified Schools (NOUS). National in scope sounds impossible until you remember we are talking about the whole American Orthodox household.
 
-**3. A creative housing investment fund.** A for-profit fund managed by local Orthodox businessmen  buys houses near campus and offers free or at-cost housing to teachers and admin. Investor principal stays in the real estate; the "donation" is forgoing cash-flow so equity can grow. Later, schools or teachers can buy houses back in-house.
+**3. A creative housing investment fund.** A for-profit fund managed by local Orthodox businessmen buys houses near campus and offers free or at-cost housing to teachers and admin. Investor principal stays in the real estate; the "donation" is forgoing cash-flow so equity can grow. Later, schools or teachers can buy houses back in-house.
 
-**4. Archdiocesan pooling.** Antiochian, Greek, or other jurisdictions with a common vision could either grant ~$200K cash per school per year for a limited startup window (say, 3 years), or build a large fund and distribute dividends to as many schools as the yield allows. (This is a proposal, not a description of current policy.)
+**4. Archdiocesan pooling.** Antiochian, Greek, or other jurisdictions with a common vision could either grant ~$200,000 cash per school per year for a limited startup window (say, 3 years), or build a large fund and distribute dividends to as many schools as the yield allows. (This is a proposal, not a description of current policy.)
 
-**5. A pay-it-forward cycle**. Onboarding new schools is not "pick a curriculum and open Monday." At St. Andrew our curriculum is eclectic; the harder work is talent, vision, board training, and capital—typically a 1–2 year pipeline. Then imagine a 3–5 year support window (~$200K/year) while the school builds its own mini-endowment and enrollment. Once sustainable, schools pledge about 1% back into the foundation so smaller or out-of-the-way parishes can keep receiving help. Pay it forward.
+**5. A pay-it-forward cycle**. Onboarding new schools is not "pick a curriculum and open Monday." At St. Andrew our curriculum is eclectic; the harder work is talent, vision, board training, and capital—typically a 1–2 year pipeline. Then imagine a 3–5 year support window (~$200,000/year) while the school builds its own mini-endowment and enrollment. Once sustainable, schools pledge about 1% back into the foundation so smaller or out-of-the-way parishes can keep receiving help. Pay it forward.
 
 ## Conclusion
 
