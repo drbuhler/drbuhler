@@ -1,0 +1,29 @@
+---
+published: false
+layout: post
+title: The Imprinted Passion within a Dream
+categories: [Philosophy]
+permalink: /philosophy/passions-of-dreams/
+excerpt_separator: <!--more-->
+comments: false
+imported_from: keithbuhler.com
+---
+
+![header]
+
+
+Here's a weird phenomenon: we remember how we felt about an event better than we remember the event. 
+
+Dante says in *Paradiso* Canto XXXIII: 
+
+>As one who sees within a dream, and, later,
+the passion that had been imprinted stays,
+but nothing of the rest returns to mind,
+
+The phenomenon appears after reading books, seeing movies or plays, attending plays or concerts, visiting friends, and so on. We remember the single emotion -- like a color -- that is "imprinted" on the memory, and we use that single memory as a shorthand for the entire experience. If the memory is good, we say something to the effect that, "That movie was great!" (or that party, that concert, that conversation, that book, etc.)
+
+I remember loving "The Green Mile." Not having re-watched it for many years, I currently have no idea what it was about or what happens or why. 
+
+I remember loving Avengers: End Game. Don't remember what happens. 
+
+I loved *The Rise of Skywalker*. Don't remember what happens. 
