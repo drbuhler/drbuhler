@@ -28,7 +28,7 @@ A three year value-add project with an estimate 15% IRR at exit. This 26 unit as
 ### Numinor Infinite Return
 
 * 330 Bush St in Covington KY
-* 6078 State Route Rd in Water Valley KY  
+* 6078 State Route 129 in Water Valley KY  
 * 14 Locust St in Erlanger KY 
 
 Projects such as these were BRRR deals. We purchased them, restored them, rented them, and *refinanced out every penny that was put in for purchase and rehab* -- producing the coveted "infinite return" (any return on $0 is infinite!)
